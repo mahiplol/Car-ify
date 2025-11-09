@@ -1,0 +1,6 @@
+ultralytics==8.3.226
+opencv-python
+pillow
+numpy
+timm
+pydantic

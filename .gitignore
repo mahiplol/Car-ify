@@ -1,0 +1,8 @@
+.venv/
+.venv-gpu/
+runs/
+data/raw_images/
+data/car_cls_triplet/train/
+data/car_cls_triplet/val/
+
+.env

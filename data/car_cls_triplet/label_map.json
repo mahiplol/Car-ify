@@ -1,0 +1,4002 @@
+{
+  "acura_ilx_2016": {
+    "make": "Acura",
+    "model": "ILX",
+    "year": "2016"
+  },
+  "acura_ilx_2019": {
+    "make": "Acura",
+    "model": "ILX",
+    "year": "2019"
+  },
+  "acura_mdx_2011": {
+    "make": "Acura",
+    "model": "MDX",
+    "year": "2011"
+  },
+  "acura_mdx_2014": {
+    "make": "Acura",
+    "model": "MDX",
+    "year": "2014"
+  },
+  "acura_mdx_2017": {
+    "make": "Acura",
+    "model": "MDX",
+    "year": "2017"
+  },
+  "acura_mdx_2019": {
+    "make": "Acura",
+    "model": "MDX",
+    "year": "2019"
+  },
+  "acura_nsx_2005": {
+    "make": "Acura",
+    "model": "NSX",
+    "year": "2005"
+  },
+  "acura_nsx_2017": {
+    "make": "Acura",
+    "model": "NSX",
+    "year": "2017"
+  },
+  "acura_rdx_2011": {
+    "make": "Acura",
+    "model": "RDX",
+    "year": "2011"
+  },
+  "acura_rdx_2019": {
+    "make": "Acura",
+    "model": "RDX",
+    "year": "2019"
+  },
+  "acura_rlx_2014": {
+    "make": "Acura",
+    "model": "RLX",
+    "year": "2014"
+  },
+  "acura_rlx_2020": {
+    "make": "Acura",
+    "model": "RLX",
+    "year": "2020"
+  },
+  "acura_tlx_2015": {
+    "make": "Acura",
+    "model": "TLX",
+    "year": "2015"
+  },
+  "alfa romeo_4c_2015": {
+    "make": "Alfa Romeo",
+    "model": "4C",
+    "year": "2015"
+  },
+  "alfa romeo_giulia_2017": {
+    "make": "Alfa Romeo",
+    "model": "GIULIA",
+    "year": "2017"
+  },
+  "alfa romeo_giulia_2020": {
+    "make": "Alfa Romeo",
+    "model": "GIULIA",
+    "year": "2020"
+  },
+  "alfa romeo_stelvio_2020": {
+    "make": "Alfa Romeo",
+    "model": "STELVIO",
+    "year": "2020"
+  },
+  "aston martin_db11_2017": {
+    "make": "Aston Martin",
+    "model": "DB11",
+    "year": "2017"
+  },
+  "aston martin_dbs_2019": {
+    "make": "Aston Martin",
+    "model": "DBS",
+    "year": "2019"
+  },
+  "aston martin_vanquish_2014": {
+    "make": "Aston Martin",
+    "model": "VANQUISH",
+    "year": "2014"
+  },
+  "aston martin_vantage_2011": {
+    "make": "Aston Martin",
+    "model": "VANTAGE",
+    "year": "2011"
+  },
+  "aston martin_vantage_2012": {
+    "make": "Aston Martin",
+    "model": "VANTAGE",
+    "year": "2012"
+  },
+  "aston martin_vantage_2013": {
+    "make": "Aston Martin",
+    "model": "VANTAGE",
+    "year": "2013"
+  },
+  "aston martin_vantage_2015": {
+    "make": "Aston Martin",
+    "model": "VANTAGE",
+    "year": "2015"
+  },
+  "audi_a3_2010": {
+    "make": "Audi",
+    "model": "A3",
+    "year": "2010"
+  },
+  "audi_a3_2011": {
+    "make": "Audi",
+    "model": "A3",
+    "year": "2011"
+  },
+  "audi_a3_2015": {
+    "make": "Audi",
+    "model": "A3",
+    "year": "2015"
+  },
+  "audi_a3_2016": {
+    "make": "Audi",
+    "model": "A3",
+    "year": "2016"
+  },
+  "audi_a3_2017": {
+    "make": "Audi",
+    "model": "A3",
+    "year": "2017"
+  },
+  "audi_a3_2019": {
+    "make": "Audi",
+    "model": "A3",
+    "year": "2019"
+  },
+  "audi_a4_2011": {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2011"
+  },
+  "audi_a4_2013": {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2013"
+  },
+  "audi_a4_2019": {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2019"
+  },
+  "audi_a5_2010": {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2010"
+  },
+  "audi_a5_2011": {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2011"
+  },
+  "audi_a5_2012": {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2012"
+  },
+  "audi_a5_2013": {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2013"
+  },
+  "audi_a5_2019": {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2019"
+  },
+  "audi_a6_2011": {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2011"
+  },
+  "audi_a6_2012": {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2012"
+  },
+  "audi_a6_2019": {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2019"
+  },
+  "audi_a7_2012": {
+    "make": "Audi",
+    "model": "A7",
+    "year": "2012"
+  },
+  "audi_a7_2017": {
+    "make": "Audi",
+    "model": "A7",
+    "year": "2017"
+  },
+  "audi_a7_2019": {
+    "make": "Audi",
+    "model": "A7",
+    "year": "2019"
+  },
+  "audi_a8_2011": {
+    "make": "Audi",
+    "model": "A8",
+    "year": "2011"
+  },
+  "audi_a8_2019": {
+    "make": "Audi",
+    "model": "A8",
+    "year": "2019"
+  },
+  "audi_e-tron_2019": {
+    "make": "Audi",
+    "model": "E-TRON",
+    "year": "2019"
+  },
+  "audi_q3_2019": {
+    "make": "Audi",
+    "model": "Q3",
+    "year": "2019"
+  },
+  "audi_q5_2011": {
+    "make": "Audi",
+    "model": "Q5",
+    "year": "2011"
+  },
+  "audi_q5_2013": {
+    "make": "Audi",
+    "model": "Q5",
+    "year": "2013"
+  },
+  "audi_q5_2014": {
+    "make": "Audi",
+    "model": "Q5",
+    "year": "2014"
+  },
+  "audi_q7_2010": {
+    "make": "Audi",
+    "model": "Q7",
+    "year": "2010"
+  },
+  "audi_q8_2019": {
+    "make": "Audi",
+    "model": "Q8",
+    "year": "2019"
+  },
+  "audi_q8_2020": {
+    "make": "Audi",
+    "model": "Q8",
+    "year": "2020"
+  },
+  "audi_r8_2010": {
+    "make": "Audi",
+    "model": "R8",
+    "year": "2010"
+  },
+  "audi_r8_2011": {
+    "make": "Audi",
+    "model": "R8",
+    "year": "2011"
+  },
+  "audi_r8_2012": {
+    "make": "Audi",
+    "model": "R8",
+    "year": "2012"
+  },
+  "audi_r8_2017": {
+    "make": "Audi",
+    "model": "R8",
+    "year": "2017"
+  },
+  "audi_r8_2020": {
+    "make": "Audi",
+    "model": "R8",
+    "year": "2020"
+  },
+  "audi_tt_2011": {
+    "make": "Audi",
+    "model": "TT",
+    "year": "2011"
+  },
+  "audi_tt_2012": {
+    "make": "Audi",
+    "model": "TT",
+    "year": "2012"
+  },
+  "audi_tt_2016": {
+    "make": "Audi",
+    "model": "TT",
+    "year": "2016"
+  },
+  "audi_tt_2019": {
+    "make": "Audi",
+    "model": "TT",
+    "year": "2019"
+  },
+  "bentley_bentayga_2017": {
+    "make": "Bentley",
+    "model": "BENTAYGA",
+    "year": "2017"
+  },
+  "bentley_continental gt_2011": {
+    "make": "Bentley",
+    "model": "CONTINENTAL GT",
+    "year": "2011"
+  },
+  "bentley_continental gt_2013": {
+    "make": "Bentley",
+    "model": "CONTINENTAL GT",
+    "year": "2013"
+  },
+  "bentley_continental gt_2014": {
+    "make": "Bentley",
+    "model": "CONTINENTAL GT",
+    "year": "2014"
+  },
+  "bentley_continental gt_2020": {
+    "make": "Bentley",
+    "model": "CONTINENTAL GT",
+    "year": "2020"
+  },
+  "bentley_flying spur_2011": {
+    "make": "Bentley",
+    "model": "FLYING SPUR",
+    "year": "2011"
+  },
+  "bentley_flying spur_2014": {
+    "make": "Bentley",
+    "model": "FLYING SPUR",
+    "year": "2014"
+  },
+  "bentley_mulsanne_2020": {
+    "make": "Bentley",
+    "model": "MULSANNE",
+    "year": "2020"
+  },
+  "bmw_2-series_2014": {
+    "make": "Bmw",
+    "model": "2-SERIES",
+    "year": "2014"
+  },
+  "bmw_2-series_2015": {
+    "make": "Bmw",
+    "model": "2-SERIES",
+    "year": "2015"
+  },
+  "bmw_2-series_2016": {
+    "make": "Bmw",
+    "model": "2-SERIES",
+    "year": "2016"
+  },
+  "bmw_2-series_2017": {
+    "make": "Bmw",
+    "model": "2-SERIES",
+    "year": "2017"
+  },
+  "bmw_2-series_2019": {
+    "make": "Bmw",
+    "model": "2-SERIES",
+    "year": "2019"
+  },
+  "bmw_2-series_2020": {
+    "make": "Bmw",
+    "model": "2-SERIES",
+    "year": "2020"
+  },
+  "bmw_3-series_2011": {
+    "make": "Bmw",
+    "model": "3-SERIES",
+    "year": "2011"
+  },
+  "bmw_3-series_2012": {
+    "make": "Bmw",
+    "model": "3-SERIES",
+    "year": "2012"
+  },
+  "bmw_3-series_2013": {
+    "make": "Bmw",
+    "model": "3-SERIES",
+    "year": "2013"
+  },
+  "bmw_3-series_2014": {
+    "make": "Bmw",
+    "model": "3-SERIES",
+    "year": "2014"
+  },
+  "bmw_3-series_2015": {
+    "make": "Bmw",
+    "model": "3-SERIES",
+    "year": "2015"
+  },
+  "bmw_3-series_2016": {
+    "make": "Bmw",
+    "model": "3-SERIES",
+    "year": "2016"
+  },
+  "bmw_3-series_2017": {
+    "make": "Bmw",
+    "model": "3-SERIES",
+    "year": "2017"
+  },
+  "bmw_3-series_2019": {
+    "make": "Bmw",
+    "model": "3-SERIES",
+    "year": "2019"
+  },
+  "bmw_4-series_2014": {
+    "make": "Bmw",
+    "model": "4-SERIES",
+    "year": "2014"
+  },
+  "bmw_4-series_2015": {
+    "make": "Bmw",
+    "model": "4-SERIES",
+    "year": "2015"
+  },
+  "bmw_4-series_2016": {
+    "make": "Bmw",
+    "model": "4-SERIES",
+    "year": "2016"
+  },
+  "bmw_4-series_2017": {
+    "make": "Bmw",
+    "model": "4-SERIES",
+    "year": "2017"
+  },
+  "bmw_4-series_2019": {
+    "make": "Bmw",
+    "model": "4-SERIES",
+    "year": "2019"
+  },
+  "bmw_4-series_2020": {
+    "make": "Bmw",
+    "model": "4-SERIES",
+    "year": "2020"
+  },
+  "bmw_5-series_2011": {
+    "make": "Bmw",
+    "model": "5-SERIES",
+    "year": "2011"
+  },
+  "bmw_5-series_2012": {
+    "make": "Bmw",
+    "model": "5-SERIES",
+    "year": "2012"
+  },
+  "bmw_5-series_2013": {
+    "make": "Bmw",
+    "model": "5-SERIES",
+    "year": "2013"
+  },
+  "bmw_5-series_2015": {
+    "make": "Bmw",
+    "model": "5-SERIES",
+    "year": "2015"
+  },
+  "bmw_5-series_2016": {
+    "make": "Bmw",
+    "model": "5-SERIES",
+    "year": "2016"
+  },
+  "bmw_5-series_2017": {
+    "make": "Bmw",
+    "model": "5-SERIES",
+    "year": "2017"
+  },
+  "bmw_5-series_2020": {
+    "make": "Bmw",
+    "model": "5-SERIES",
+    "year": "2020"
+  },
+  "bmw_6-series_2010": {
+    "make": "Bmw",
+    "model": "6-SERIES",
+    "year": "2010"
+  },
+  "bmw_6-series_2012": {
+    "make": "Bmw",
+    "model": "6-SERIES",
+    "year": "2012"
+  },
+  "bmw_6-series_2013": {
+    "make": "Bmw",
+    "model": "6-SERIES",
+    "year": "2013"
+  },
+  "bmw_6-series_2014": {
+    "make": "Bmw",
+    "model": "6-SERIES",
+    "year": "2014"
+  },
+  "bmw_6-series_2015": {
+    "make": "Bmw",
+    "model": "6-SERIES",
+    "year": "2015"
+  },
+  "bmw_6-series_2016": {
+    "make": "Bmw",
+    "model": "6-SERIES",
+    "year": "2016"
+  },
+  "bmw_6-series_2017": {
+    "make": "Bmw",
+    "model": "6-SERIES",
+    "year": "2017"
+  },
+  "bmw_6-series_2019": {
+    "make": "Bmw",
+    "model": "6-SERIES",
+    "year": "2019"
+  },
+  "bmw_7-series_2011": {
+    "make": "Bmw",
+    "model": "7-SERIES",
+    "year": "2011"
+  },
+  "bmw_7-series_2015": {
+    "make": "Bmw",
+    "model": "7-SERIES",
+    "year": "2015"
+  },
+  "bmw_7-series_2016": {
+    "make": "Bmw",
+    "model": "7-SERIES",
+    "year": "2016"
+  },
+  "bmw_7-series_2017": {
+    "make": "Bmw",
+    "model": "7-SERIES",
+    "year": "2017"
+  },
+  "bmw_7-series_2019": {
+    "make": "Bmw",
+    "model": "7-SERIES",
+    "year": "2019"
+  },
+  "bmw_8-series_2020": {
+    "make": "Bmw",
+    "model": "8-SERIES",
+    "year": "2020"
+  },
+  "bmw_i3_2014": {
+    "make": "Bmw",
+    "model": "I3",
+    "year": "2014"
+  },
+  "bmw_i3_2017": {
+    "make": "Bmw",
+    "model": "I3",
+    "year": "2017"
+  },
+  "bmw_i8_2015": {
+    "make": "Bmw",
+    "model": "I8",
+    "year": "2015"
+  },
+  "bmw_x1_2016": {
+    "make": "Bmw",
+    "model": "X1",
+    "year": "2016"
+  },
+  "bmw_x1_2020": {
+    "make": "Bmw",
+    "model": "X1",
+    "year": "2020"
+  },
+  "bmw_x2_2020": {
+    "make": "Bmw",
+    "model": "X2",
+    "year": "2020"
+  },
+  "bmw_x3_2011": {
+    "make": "Bmw",
+    "model": "X3",
+    "year": "2011"
+  },
+  "bmw_x3_2015": {
+    "make": "Bmw",
+    "model": "X3",
+    "year": "2015"
+  },
+  "bmw_x3_2016": {
+    "make": "Bmw",
+    "model": "X3",
+    "year": "2016"
+  },
+  "bmw_x3_2019": {
+    "make": "Bmw",
+    "model": "X3",
+    "year": "2019"
+  },
+  "bmw_x4_2016": {
+    "make": "Bmw",
+    "model": "X4",
+    "year": "2016"
+  },
+  "bmw_x4_2019": {
+    "make": "Bmw",
+    "model": "X4",
+    "year": "2019"
+  },
+  "bmw_x5_2011": {
+    "make": "Bmw",
+    "model": "X5",
+    "year": "2011"
+  },
+  "bmw_x5_2015": {
+    "make": "Bmw",
+    "model": "X5",
+    "year": "2015"
+  },
+  "bmw_x5_2019": {
+    "make": "Bmw",
+    "model": "X5",
+    "year": "2019"
+  },
+  "bmw_x6_2011": {
+    "make": "Bmw",
+    "model": "X6",
+    "year": "2011"
+  },
+  "bmw_x6_2015": {
+    "make": "Bmw",
+    "model": "X6",
+    "year": "2015"
+  },
+  "bmw_x6_2019": {
+    "make": "Bmw",
+    "model": "X6",
+    "year": "2019"
+  },
+  "bmw_z4_2009": {
+    "make": "Bmw",
+    "model": "Z4",
+    "year": "2009"
+  },
+  "bmw_z4_2014": {
+    "make": "Bmw",
+    "model": "Z4",
+    "year": "2014"
+  },
+  "bmw_z4_2015": {
+    "make": "Bmw",
+    "model": "Z4",
+    "year": "2015"
+  },
+  "bmw_z4_2019": {
+    "make": "Bmw",
+    "model": "Z4",
+    "year": "2019"
+  },
+  "buick_cascada_2016": {
+    "make": "Buick",
+    "model": "CASCADA",
+    "year": "2016"
+  },
+  "buick_enclave_2011": {
+    "make": "Buick",
+    "model": "ENCLAVE",
+    "year": "2011"
+  },
+  "buick_enclave_2019": {
+    "make": "Buick",
+    "model": "ENCLAVE",
+    "year": "2019"
+  },
+  "buick_lacrosse_2010": {
+    "make": "Buick",
+    "model": "LACROSSE",
+    "year": "2010"
+  },
+  "buick_lacrosse_2017": {
+    "make": "Buick",
+    "model": "LACROSSE",
+    "year": "2017"
+  },
+  "buick_regal_2011": {
+    "make": "Buick",
+    "model": "REGAL",
+    "year": "2011"
+  },
+  "buick_regal_2019": {
+    "make": "Buick",
+    "model": "REGAL",
+    "year": "2019"
+  },
+  "cadillac_ats_2015": {
+    "make": "Cadillac",
+    "model": "ATS",
+    "year": "2015"
+  },
+  "cadillac_ats_2016": {
+    "make": "Cadillac",
+    "model": "ATS",
+    "year": "2016"
+  },
+  "cadillac_ats_2019": {
+    "make": "Cadillac",
+    "model": "ATS",
+    "year": "2019"
+  },
+  "cadillac_ct6_2020": {
+    "make": "Cadillac",
+    "model": "CT6",
+    "year": "2020"
+  },
+  "cadillac_cts_2010": {
+    "make": "Cadillac",
+    "model": "CTS",
+    "year": "2010"
+  },
+  "cadillac_cts_2011": {
+    "make": "Cadillac",
+    "model": "CTS",
+    "year": "2011"
+  },
+  "cadillac_cts_2012": {
+    "make": "Cadillac",
+    "model": "CTS",
+    "year": "2012"
+  },
+  "cadillac_cts_2014": {
+    "make": "Cadillac",
+    "model": "CTS",
+    "year": "2014"
+  },
+  "cadillac_cts_2016": {
+    "make": "Cadillac",
+    "model": "CTS",
+    "year": "2016"
+  },
+  "cadillac_cts_2019": {
+    "make": "Cadillac",
+    "model": "CTS",
+    "year": "2019"
+  },
+  "cadillac_escalade_2011": {
+    "make": "Cadillac",
+    "model": "ESCALADE",
+    "year": "2011"
+  },
+  "cadillac_escalade_2012": {
+    "make": "Cadillac",
+    "model": "ESCALADE",
+    "year": "2012"
+  },
+  "cadillac_escalade_2013": {
+    "make": "Cadillac",
+    "model": "ESCALADE",
+    "year": "2013"
+  },
+  "cadillac_escalade_2015": {
+    "make": "Cadillac",
+    "model": "ESCALADE",
+    "year": "2015"
+  },
+  "cadillac_escalade_2017": {
+    "make": "Cadillac",
+    "model": "ESCALADE",
+    "year": "2017"
+  },
+  "cadillac_escalade_2019": {
+    "make": "Cadillac",
+    "model": "ESCALADE",
+    "year": "2019"
+  },
+  "cadillac_xt5_2017": {
+    "make": "Cadillac",
+    "model": "XT5",
+    "year": "2017"
+  },
+  "cadillac_xts_2013": {
+    "make": "Cadillac",
+    "model": "XTS",
+    "year": "2013"
+  },
+  "chevrolet_blazer_2020": {
+    "make": "Chevrolet",
+    "model": "BLAZER",
+    "year": "2020"
+  },
+  "chevrolet_bolt ev_2017": {
+    "make": "Chevrolet",
+    "model": "BOLT EV",
+    "year": "2017"
+  },
+  "chevrolet_bolt ev_2019": {
+    "make": "Chevrolet",
+    "model": "BOLT EV",
+    "year": "2019"
+  },
+  "chevrolet_camaro_2011": {
+    "make": "Chevrolet",
+    "model": "CAMARO",
+    "year": "2011"
+  },
+  "chevrolet_camaro_2012": {
+    "make": "Chevrolet",
+    "model": "CAMARO",
+    "year": "2012"
+  },
+  "chevrolet_camaro_2013": {
+    "make": "Chevrolet",
+    "model": "CAMARO",
+    "year": "2013"
+  },
+  "chevrolet_camaro_2014": {
+    "make": "Chevrolet",
+    "model": "CAMARO",
+    "year": "2014"
+  },
+  "chevrolet_camaro_2015": {
+    "make": "Chevrolet",
+    "model": "CAMARO",
+    "year": "2015"
+  },
+  "chevrolet_camaro_2016": {
+    "make": "Chevrolet",
+    "model": "CAMARO",
+    "year": "2016"
+  },
+  "chevrolet_camaro_2017": {
+    "make": "Chevrolet",
+    "model": "CAMARO",
+    "year": "2017"
+  },
+  "chevrolet_camaro_2019": {
+    "make": "Chevrolet",
+    "model": "CAMARO",
+    "year": "2019"
+  },
+  "chevrolet_colorado_2009": {
+    "make": "Chevrolet",
+    "model": "COLORADO",
+    "year": "2009"
+  },
+  "chevrolet_colorado_2010": {
+    "make": "Chevrolet",
+    "model": "COLORADO",
+    "year": "2010"
+  },
+  "chevrolet_colorado_2011": {
+    "make": "Chevrolet",
+    "model": "COLORADO",
+    "year": "2011"
+  },
+  "chevrolet_colorado_2015": {
+    "make": "Chevrolet",
+    "model": "COLORADO",
+    "year": "2015"
+  },
+  "chevrolet_colorado_2016": {
+    "make": "Chevrolet",
+    "model": "COLORADO",
+    "year": "2016"
+  },
+  "chevrolet_colorado_2017": {
+    "make": "Chevrolet",
+    "model": "COLORADO",
+    "year": "2017"
+  },
+  "chevrolet_colorado_2019": {
+    "make": "Chevrolet",
+    "model": "COLORADO",
+    "year": "2019"
+  },
+  "chevrolet_corvette_2011": {
+    "make": "Chevrolet",
+    "model": "CORVETTE",
+    "year": "2011"
+  },
+  "chevrolet_corvette_2012": {
+    "make": "Chevrolet",
+    "model": "CORVETTE",
+    "year": "2012"
+  },
+  "chevrolet_corvette_2013": {
+    "make": "Chevrolet",
+    "model": "CORVETTE",
+    "year": "2013"
+  },
+  "chevrolet_corvette_2014": {
+    "make": "Chevrolet",
+    "model": "CORVETTE",
+    "year": "2014"
+  },
+  "chevrolet_corvette_2015": {
+    "make": "Chevrolet",
+    "model": "CORVETTE",
+    "year": "2015"
+  },
+  "chevrolet_corvette_2017": {
+    "make": "Chevrolet",
+    "model": "CORVETTE",
+    "year": "2017"
+  },
+  "chevrolet_corvette_2019": {
+    "make": "Chevrolet",
+    "model": "CORVETTE",
+    "year": "2019"
+  },
+  "chevrolet_cruze_2011": {
+    "make": "Chevrolet",
+    "model": "CRUZE",
+    "year": "2011"
+  },
+  "chevrolet_cruze_2019": {
+    "make": "Chevrolet",
+    "model": "CRUZE",
+    "year": "2019"
+  },
+  "chevrolet_equinox_2011": {
+    "make": "Chevrolet",
+    "model": "EQUINOX",
+    "year": "2011"
+  },
+  "chevrolet_equinox_2019": {
+    "make": "Chevrolet",
+    "model": "EQUINOX",
+    "year": "2019"
+  },
+  "chevrolet_impala_2011": {
+    "make": "Chevrolet",
+    "model": "IMPALA",
+    "year": "2011"
+  },
+  "chevrolet_malibu_2011": {
+    "make": "Chevrolet",
+    "model": "MALIBU",
+    "year": "2011"
+  },
+  "chevrolet_malibu_2013": {
+    "make": "Chevrolet",
+    "model": "MALIBU",
+    "year": "2013"
+  },
+  "chevrolet_silverado 1500_2011": {
+    "make": "Chevrolet",
+    "model": "SILVERADO 1500",
+    "year": "2011"
+  },
+  "chevrolet_silverado 1500_2014": {
+    "make": "Chevrolet",
+    "model": "SILVERADO 1500",
+    "year": "2014"
+  },
+  "chevrolet_silverado 1500_2015": {
+    "make": "Chevrolet",
+    "model": "SILVERADO 1500",
+    "year": "2015"
+  },
+  "chevrolet_silverado 1500_2016": {
+    "make": "Chevrolet",
+    "model": "SILVERADO 1500",
+    "year": "2016"
+  },
+  "chevrolet_silverado 1500_2017": {
+    "make": "Chevrolet",
+    "model": "SILVERADO 1500",
+    "year": "2017"
+  },
+  "chevrolet_silverado 1500_2019": {
+    "make": "Chevrolet",
+    "model": "SILVERADO 1500",
+    "year": "2019"
+  },
+  "chevrolet_silverado 1500_2020": {
+    "make": "Chevrolet",
+    "model": "SILVERADO 1500",
+    "year": "2020"
+  },
+  "chevrolet_silverado 2500hd_2011": {
+    "make": "Chevrolet",
+    "model": "SILVERADO 2500HD",
+    "year": "2011"
+  },
+  "chevrolet_silverado 2500hd_2016": {
+    "make": "Chevrolet",
+    "model": "SILVERADO 2500HD",
+    "year": "2016"
+  },
+  "chevrolet_silverado 2500hd_2017": {
+    "make": "Chevrolet",
+    "model": "SILVERADO 2500HD",
+    "year": "2017"
+  },
+  "chevrolet_silverado 2500hd_2019": {
+    "make": "Chevrolet",
+    "model": "SILVERADO 2500HD",
+    "year": "2019"
+  },
+  "chevrolet_silverado 2500hd_2020": {
+    "make": "Chevrolet",
+    "model": "SILVERADO 2500HD",
+    "year": "2020"
+  },
+  "chevrolet_sonic_2012": {
+    "make": "Chevrolet",
+    "model": "SONIC",
+    "year": "2012"
+  },
+  "chevrolet_sonic_2016": {
+    "make": "Chevrolet",
+    "model": "SONIC",
+    "year": "2016"
+  },
+  "chevrolet_sonic_2019": {
+    "make": "Chevrolet",
+    "model": "SONIC",
+    "year": "2019"
+  },
+  "chevrolet_spark_2014": {
+    "make": "Chevrolet",
+    "model": "SPARK",
+    "year": "2014"
+  },
+  "chevrolet_suburban_2011": {
+    "make": "Chevrolet",
+    "model": "SUBURBAN",
+    "year": "2011"
+  },
+  "chevrolet_suburban_2017": {
+    "make": "Chevrolet",
+    "model": "SUBURBAN",
+    "year": "2017"
+  },
+  "chevrolet_suburban_2019": {
+    "make": "Chevrolet",
+    "model": "SUBURBAN",
+    "year": "2019"
+  },
+  "chevrolet_tahoe_2011": {
+    "make": "Chevrolet",
+    "model": "TAHOE",
+    "year": "2011"
+  },
+  "chevrolet_tahoe_2019": {
+    "make": "Chevrolet",
+    "model": "TAHOE",
+    "year": "2019"
+  },
+  "chevrolet_trailblazer_2006": {
+    "make": "Chevrolet",
+    "model": "TRAILBLAZER",
+    "year": "2006"
+  },
+  "chevrolet_trailblazer_2008": {
+    "make": "Chevrolet",
+    "model": "TRAILBLAZER",
+    "year": "2008"
+  },
+  "chevrolet_traverse_2011": {
+    "make": "Chevrolet",
+    "model": "TRAVERSE",
+    "year": "2011"
+  },
+  "chevrolet_traverse_2019": {
+    "make": "Chevrolet",
+    "model": "TRAVERSE",
+    "year": "2019"
+  },
+  "chevrolet_trax_2019": {
+    "make": "Chevrolet",
+    "model": "TRAX",
+    "year": "2019"
+  },
+  "chevrolet_volt_2011": {
+    "make": "Chevrolet",
+    "model": "VOLT",
+    "year": "2011"
+  },
+  "chevrolet_volt_2016": {
+    "make": "Chevrolet",
+    "model": "VOLT",
+    "year": "2016"
+  },
+  "chevrolet_volt_2019": {
+    "make": "Chevrolet",
+    "model": "VOLT",
+    "year": "2019"
+  },
+  "chrysler_300_2011": {
+    "make": "Chrysler",
+    "model": "300",
+    "year": "2011"
+  },
+  "chrysler_300_2012": {
+    "make": "Chrysler",
+    "model": "300",
+    "year": "2012"
+  },
+  "chrysler_300_2015": {
+    "make": "Chrysler",
+    "model": "300",
+    "year": "2015"
+  },
+  "chrysler_300_2017": {
+    "make": "Chrysler",
+    "model": "300",
+    "year": "2017"
+  },
+  "chrysler_300_2019": {
+    "make": "Chrysler",
+    "model": "300",
+    "year": "2019"
+  },
+  "chrysler_pacifica_2017": {
+    "make": "Chrysler",
+    "model": "PACIFICA",
+    "year": "2017"
+  },
+  "chrysler_pacifica_2019": {
+    "make": "Chrysler",
+    "model": "PACIFICA",
+    "year": "2019"
+  },
+  "dodge_challenger_2011": {
+    "make": "Dodge",
+    "model": "CHALLENGER",
+    "year": "2011"
+  },
+  "dodge_challenger_2017": {
+    "make": "Dodge",
+    "model": "CHALLENGER",
+    "year": "2017"
+  },
+  "dodge_challenger_2019": {
+    "make": "Dodge",
+    "model": "CHALLENGER",
+    "year": "2019"
+  },
+  "dodge_challenger_2020": {
+    "make": "Dodge",
+    "model": "CHALLENGER",
+    "year": "2020"
+  },
+  "dodge_charger_2011": {
+    "make": "Dodge",
+    "model": "CHARGER",
+    "year": "2011"
+  },
+  "dodge_charger_2012": {
+    "make": "Dodge",
+    "model": "CHARGER",
+    "year": "2012"
+  },
+  "dodge_charger_2015": {
+    "make": "Dodge",
+    "model": "CHARGER",
+    "year": "2015"
+  },
+  "dodge_charger_2019": {
+    "make": "Dodge",
+    "model": "CHARGER",
+    "year": "2019"
+  },
+  "dodge_charger_2020": {
+    "make": "Dodge",
+    "model": "CHARGER",
+    "year": "2020"
+  },
+  "dodge_durango_2011": {
+    "make": "Dodge",
+    "model": "DURANGO",
+    "year": "2011"
+  },
+  "dodge_grand caravan_2011": {
+    "make": "Dodge",
+    "model": "GRAND CARAVAN",
+    "year": "2011"
+  },
+  "dodge_journey_2011": {
+    "make": "Dodge",
+    "model": "JOURNEY",
+    "year": "2011"
+  },
+  "ferrari_488 gtb_2016": {
+    "make": "Ferrari",
+    "model": "488 GTB",
+    "year": "2016"
+  },
+  "fiat_124 spider_2017": {
+    "make": "Fiat",
+    "model": "124 SPIDER",
+    "year": "2017"
+  },
+  "fiat_124 spider_2019": {
+    "make": "Fiat",
+    "model": "124 SPIDER",
+    "year": "2019"
+  },
+  "fiat_500l_2014": {
+    "make": "Fiat",
+    "model": "500L",
+    "year": "2014"
+  },
+  "fiat_500x_2016": {
+    "make": "Fiat",
+    "model": "500X",
+    "year": "2016"
+  },
+  "fiat_500_2012": {
+    "make": "Fiat",
+    "model": "500",
+    "year": "2012"
+  },
+  "fiat_500_2013": {
+    "make": "Fiat",
+    "model": "500",
+    "year": "2013"
+  },
+  "fiat_500_2014": {
+    "make": "Fiat",
+    "model": "500",
+    "year": "2014"
+  },
+  "fiat_500_2015": {
+    "make": "Fiat",
+    "model": "500",
+    "year": "2015"
+  },
+  "fiat_500_2016": {
+    "make": "Fiat",
+    "model": "500",
+    "year": "2016"
+  },
+  "fiat_500_2017": {
+    "make": "Fiat",
+    "model": "500",
+    "year": "2017"
+  },
+  "ford_ecosport_2019": {
+    "make": "Ford",
+    "model": "ECOSPORT",
+    "year": "2019"
+  },
+  "ford_edge_2011": {
+    "make": "Ford",
+    "model": "EDGE",
+    "year": "2011"
+  },
+  "ford_edge_2015": {
+    "make": "Ford",
+    "model": "EDGE",
+    "year": "2015"
+  },
+  "ford_edge_2019": {
+    "make": "Ford",
+    "model": "EDGE",
+    "year": "2019"
+  },
+  "ford_escape_2011": {
+    "make": "Ford",
+    "model": "ESCAPE",
+    "year": "2011"
+  },
+  "ford_escape_2012": {
+    "make": "Ford",
+    "model": "ESCAPE",
+    "year": "2012"
+  },
+  "ford_escape_2019": {
+    "make": "Ford",
+    "model": "ESCAPE",
+    "year": "2019"
+  },
+  "ford_expedition_2011": {
+    "make": "Ford",
+    "model": "EXPEDITION",
+    "year": "2011"
+  },
+  "ford_expedition_2019": {
+    "make": "Ford",
+    "model": "EXPEDITION",
+    "year": "2019"
+  },
+  "ford_explorer_2011": {
+    "make": "Ford",
+    "model": "EXPLORER",
+    "year": "2011"
+  },
+  "ford_explorer_2016": {
+    "make": "Ford",
+    "model": "EXPLORER",
+    "year": "2016"
+  },
+  "ford_explorer_2017": {
+    "make": "Ford",
+    "model": "EXPLORER",
+    "year": "2017"
+  },
+  "ford_explorer_2020": {
+    "make": "Ford",
+    "model": "EXPLORER",
+    "year": "2020"
+  },
+  "ford_f-150_2011": {
+    "make": "Ford",
+    "model": "F-150",
+    "year": "2011"
+  },
+  "ford_f-150_2012": {
+    "make": "Ford",
+    "model": "F-150",
+    "year": "2012"
+  },
+  "ford_f-150_2013": {
+    "make": "Ford",
+    "model": "F-150",
+    "year": "2013"
+  },
+  "ford_f-150_2014": {
+    "make": "Ford",
+    "model": "F-150",
+    "year": "2014"
+  },
+  "ford_f-150_2015": {
+    "make": "Ford",
+    "model": "F-150",
+    "year": "2015"
+  },
+  "ford_f-150_2016": {
+    "make": "Ford",
+    "model": "F-150",
+    "year": "2016"
+  },
+  "ford_f-150_2017": {
+    "make": "Ford",
+    "model": "F-150",
+    "year": "2017"
+  },
+  "ford_f-150_2019": {
+    "make": "Ford",
+    "model": "F-150",
+    "year": "2019"
+  },
+  "ford_fiesta_2011": {
+    "make": "Ford",
+    "model": "FIESTA",
+    "year": "2011"
+  },
+  "ford_fiesta_2012": {
+    "make": "Ford",
+    "model": "FIESTA",
+    "year": "2012"
+  },
+  "ford_fiesta_2014": {
+    "make": "Ford",
+    "model": "FIESTA",
+    "year": "2014"
+  },
+  "ford_fiesta_2016": {
+    "make": "Ford",
+    "model": "FIESTA",
+    "year": "2016"
+  },
+  "ford_fiesta_2019": {
+    "make": "Ford",
+    "model": "FIESTA",
+    "year": "2019"
+  },
+  "ford_flex_2010": {
+    "make": "Ford",
+    "model": "FLEX",
+    "year": "2010"
+  },
+  "ford_flex_2019": {
+    "make": "Ford",
+    "model": "FLEX",
+    "year": "2019"
+  },
+  "ford_fusion_2011": {
+    "make": "Ford",
+    "model": "FUSION",
+    "year": "2011"
+  },
+  "ford_fusion_2014": {
+    "make": "Ford",
+    "model": "FUSION",
+    "year": "2014"
+  },
+  "ford_fusion_2016": {
+    "make": "Ford",
+    "model": "FUSION",
+    "year": "2016"
+  },
+  "ford_fusion_2017": {
+    "make": "Ford",
+    "model": "FUSION",
+    "year": "2017"
+  },
+  "ford_fusion_2019": {
+    "make": "Ford",
+    "model": "FUSION",
+    "year": "2019"
+  },
+  "ford_mustang_2011": {
+    "make": "Ford",
+    "model": "MUSTANG",
+    "year": "2011"
+  },
+  "ford_mustang_2012": {
+    "make": "Ford",
+    "model": "MUSTANG",
+    "year": "2012"
+  },
+  "ford_mustang_2013": {
+    "make": "Ford",
+    "model": "MUSTANG",
+    "year": "2013"
+  },
+  "ford_mustang_2015": {
+    "make": "Ford",
+    "model": "MUSTANG",
+    "year": "2015"
+  },
+  "ford_mustang_2016": {
+    "make": "Ford",
+    "model": "MUSTANG",
+    "year": "2016"
+  },
+  "ford_mustang_2019": {
+    "make": "Ford",
+    "model": "MUSTANG",
+    "year": "2019"
+  },
+  "ford_ranger_2004": {
+    "make": "Ford",
+    "model": "RANGER",
+    "year": "2004"
+  },
+  "ford_ranger_2005": {
+    "make": "Ford",
+    "model": "RANGER",
+    "year": "2005"
+  },
+  "ford_ranger_2006": {
+    "make": "Ford",
+    "model": "RANGER",
+    "year": "2006"
+  },
+  "ford_ranger_2007": {
+    "make": "Ford",
+    "model": "RANGER",
+    "year": "2007"
+  },
+  "ford_ranger_2008": {
+    "make": "Ford",
+    "model": "RANGER",
+    "year": "2008"
+  },
+  "ford_ranger_2009": {
+    "make": "Ford",
+    "model": "RANGER",
+    "year": "2009"
+  },
+  "ford_ranger_2010": {
+    "make": "Ford",
+    "model": "RANGER",
+    "year": "2010"
+  },
+  "ford_ranger_2019": {
+    "make": "Ford",
+    "model": "RANGER",
+    "year": "2019"
+  },
+  "ford_super duty f-250_2011": {
+    "make": "Ford",
+    "model": "SUPER DUTY F-250",
+    "year": "2011"
+  },
+  "ford_super duty f-250_2012": {
+    "make": "Ford",
+    "model": "SUPER DUTY F-250",
+    "year": "2012"
+  },
+  "ford_super duty f-250_2013": {
+    "make": "Ford",
+    "model": "SUPER DUTY F-250",
+    "year": "2013"
+  },
+  "ford_super duty f-250_2014": {
+    "make": "Ford",
+    "model": "SUPER DUTY F-250",
+    "year": "2014"
+  },
+  "ford_super duty f-250_2015": {
+    "make": "Ford",
+    "model": "SUPER DUTY F-250",
+    "year": "2015"
+  },
+  "ford_super duty f-250_2016": {
+    "make": "Ford",
+    "model": "SUPER DUTY F-250",
+    "year": "2016"
+  },
+  "ford_super duty f-250_2017": {
+    "make": "Ford",
+    "model": "SUPER DUTY F-250",
+    "year": "2017"
+  },
+  "ford_super duty f-250_2019": {
+    "make": "Ford",
+    "model": "SUPER DUTY F-250",
+    "year": "2019"
+  },
+  "ford_taurus_2010": {
+    "make": "Ford",
+    "model": "TAURUS",
+    "year": "2010"
+  },
+  "ford_taurus_2013": {
+    "make": "Ford",
+    "model": "TAURUS",
+    "year": "2013"
+  },
+  "ford_taurus_2019": {
+    "make": "Ford",
+    "model": "TAURUS",
+    "year": "2019"
+  },
+  "genesis_g70_2020": {
+    "make": "Genesis",
+    "model": "G70",
+    "year": "2020"
+  },
+  "genesis_g90_2019": {
+    "make": "Genesis",
+    "model": "G90",
+    "year": "2019"
+  },
+  "genesis_g90_2020": {
+    "make": "Genesis",
+    "model": "G90",
+    "year": "2020"
+  },
+  "gmc_acadia_2011": {
+    "make": "Gmc",
+    "model": "ACADIA",
+    "year": "2011"
+  },
+  "gmc_acadia_2017": {
+    "make": "Gmc",
+    "model": "ACADIA",
+    "year": "2017"
+  },
+  "gmc_canyon_2009": {
+    "make": "Gmc",
+    "model": "CANYON",
+    "year": "2009"
+  },
+  "gmc_canyon_2019": {
+    "make": "Gmc",
+    "model": "CANYON",
+    "year": "2019"
+  },
+  "gmc_sierra 1500_2011": {
+    "make": "Gmc",
+    "model": "SIERRA 1500",
+    "year": "2011"
+  },
+  "gmc_sierra 1500_2012": {
+    "make": "Gmc",
+    "model": "SIERRA 1500",
+    "year": "2012"
+  },
+  "gmc_sierra 1500_2013": {
+    "make": "Gmc",
+    "model": "SIERRA 1500",
+    "year": "2013"
+  },
+  "gmc_sierra 1500_2014": {
+    "make": "Gmc",
+    "model": "SIERRA 1500",
+    "year": "2014"
+  },
+  "gmc_sierra 1500_2016": {
+    "make": "Gmc",
+    "model": "SIERRA 1500",
+    "year": "2016"
+  },
+  "gmc_sierra 1500_2017": {
+    "make": "Gmc",
+    "model": "SIERRA 1500",
+    "year": "2017"
+  },
+  "gmc_sierra 1500_2019": {
+    "make": "Gmc",
+    "model": "SIERRA 1500",
+    "year": "2019"
+  },
+  "gmc_sierra 1500_2020": {
+    "make": "Gmc",
+    "model": "SIERRA 1500",
+    "year": "2020"
+  },
+  "gmc_sierra 2500hd_2011": {
+    "make": "Gmc",
+    "model": "SIERRA 2500HD",
+    "year": "2011"
+  },
+  "gmc_sierra 2500hd_2012": {
+    "make": "Gmc",
+    "model": "SIERRA 2500HD",
+    "year": "2012"
+  },
+  "gmc_sierra 2500hd_2013": {
+    "make": "Gmc",
+    "model": "SIERRA 2500HD",
+    "year": "2013"
+  },
+  "gmc_sierra 2500hd_2016": {
+    "make": "Gmc",
+    "model": "SIERRA 2500HD",
+    "year": "2016"
+  },
+  "gmc_sierra 2500hd_2017": {
+    "make": "Gmc",
+    "model": "SIERRA 2500HD",
+    "year": "2017"
+  },
+  "gmc_sierra 2500hd_2019": {
+    "make": "Gmc",
+    "model": "SIERRA 2500HD",
+    "year": "2019"
+  },
+  "gmc_terrain_2011": {
+    "make": "Gmc",
+    "model": "TERRAIN",
+    "year": "2011"
+  },
+  "gmc_terrain_2013": {
+    "make": "Gmc",
+    "model": "TERRAIN",
+    "year": "2013"
+  },
+  "gmc_terrain_2019": {
+    "make": "Gmc",
+    "model": "TERRAIN",
+    "year": "2019"
+  },
+  "gmc_yukon_2011": {
+    "make": "Gmc",
+    "model": "YUKON",
+    "year": "2011"
+  },
+  "gmc_yukon_2012": {
+    "make": "Gmc",
+    "model": "YUKON",
+    "year": "2012"
+  },
+  "gmc_yukon_2013": {
+    "make": "Gmc",
+    "model": "YUKON",
+    "year": "2013"
+  },
+  "gmc_yukon_2014": {
+    "make": "Gmc",
+    "model": "YUKON",
+    "year": "2014"
+  },
+  "gmc_yukon_2015": {
+    "make": "Gmc",
+    "model": "YUKON",
+    "year": "2015"
+  },
+  "gmc_yukon_2016": {
+    "make": "Gmc",
+    "model": "YUKON",
+    "year": "2016"
+  },
+  "gmc_yukon_2019": {
+    "make": "Gmc",
+    "model": "YUKON",
+    "year": "2019"
+  },
+  "honda_accord_2011": {
+    "make": "Honda",
+    "model": "ACCORD",
+    "year": "2011"
+  },
+  "honda_accord_2012": {
+    "make": "Honda",
+    "model": "ACCORD",
+    "year": "2012"
+  },
+  "honda_accord_2013": {
+    "make": "Honda",
+    "model": "ACCORD",
+    "year": "2013"
+  },
+  "honda_accord_2014": {
+    "make": "Honda",
+    "model": "ACCORD",
+    "year": "2014"
+  },
+  "honda_accord_2015": {
+    "make": "Honda",
+    "model": "ACCORD",
+    "year": "2015"
+  },
+  "honda_accord_2017": {
+    "make": "Honda",
+    "model": "ACCORD",
+    "year": "2017"
+  },
+  "honda_civic_2011": {
+    "make": "Honda",
+    "model": "CIVIC",
+    "year": "2011"
+  },
+  "honda_civic_2012": {
+    "make": "Honda",
+    "model": "CIVIC",
+    "year": "2012"
+  },
+  "honda_civic_2013": {
+    "make": "Honda",
+    "model": "CIVIC",
+    "year": "2013"
+  },
+  "honda_civic_2014": {
+    "make": "Honda",
+    "model": "CIVIC",
+    "year": "2014"
+  },
+  "honda_civic_2015": {
+    "make": "Honda",
+    "model": "CIVIC",
+    "year": "2015"
+  },
+  "honda_civic_2017": {
+    "make": "Honda",
+    "model": "CIVIC",
+    "year": "2017"
+  },
+  "honda_civic_2019": {
+    "make": "Honda",
+    "model": "CIVIC",
+    "year": "2019"
+  },
+  "honda_cr-v_2011": {
+    "make": "Honda",
+    "model": "CR-V",
+    "year": "2011"
+  },
+  "honda_cr-v_2019": {
+    "make": "Honda",
+    "model": "CR-V",
+    "year": "2019"
+  },
+  "honda_fit_2011": {
+    "make": "Honda",
+    "model": "FIT",
+    "year": "2011"
+  },
+  "honda_fit_2012": {
+    "make": "Honda",
+    "model": "FIT",
+    "year": "2012"
+  },
+  "honda_fit_2015": {
+    "make": "Honda",
+    "model": "FIT",
+    "year": "2015"
+  },
+  "honda_hr-v_2019": {
+    "make": "Honda",
+    "model": "HR-V",
+    "year": "2019"
+  },
+  "honda_insight_2005": {
+    "make": "Honda",
+    "model": "INSIGHT",
+    "year": "2005"
+  },
+  "honda_insight_2010": {
+    "make": "Honda",
+    "model": "INSIGHT",
+    "year": "2010"
+  },
+  "honda_insight_2019": {
+    "make": "Honda",
+    "model": "INSIGHT",
+    "year": "2019"
+  },
+  "honda_insight_2020": {
+    "make": "Honda",
+    "model": "INSIGHT",
+    "year": "2020"
+  },
+  "honda_odyssey_2011": {
+    "make": "Honda",
+    "model": "ODYSSEY",
+    "year": "2011"
+  },
+  "honda_odyssey_2019": {
+    "make": "Honda",
+    "model": "ODYSSEY",
+    "year": "2019"
+  },
+  "honda_pilot_2011": {
+    "make": "Honda",
+    "model": "PILOT",
+    "year": "2011"
+  },
+  "honda_pilot_2016": {
+    "make": "Honda",
+    "model": "PILOT",
+    "year": "2016"
+  },
+  "honda_pilot_2019": {
+    "make": "Honda",
+    "model": "PILOT",
+    "year": "2019"
+  },
+  "honda_ridgeline_2008": {
+    "make": "Honda",
+    "model": "RIDGELINE",
+    "year": "2008"
+  },
+  "honda_ridgeline_2017": {
+    "make": "Honda",
+    "model": "RIDGELINE",
+    "year": "2017"
+  },
+  "honda_ridgeline_2019": {
+    "make": "Honda",
+    "model": "RIDGELINE",
+    "year": "2019"
+  },
+  "hyundai_accent_2011": {
+    "make": "Hyundai",
+    "model": "ACCENT",
+    "year": "2011"
+  },
+  "hyundai_accent_2012": {
+    "make": "Hyundai",
+    "model": "ACCENT",
+    "year": "2012"
+  },
+  "hyundai_elantra_2011": {
+    "make": "Hyundai",
+    "model": "ELANTRA",
+    "year": "2011"
+  },
+  "hyundai_elantra_2013": {
+    "make": "Hyundai",
+    "model": "ELANTRA",
+    "year": "2013"
+  },
+  "hyundai_elantra_2014": {
+    "make": "Hyundai",
+    "model": "ELANTRA",
+    "year": "2014"
+  },
+  "hyundai_elantra_2016": {
+    "make": "Hyundai",
+    "model": "ELANTRA",
+    "year": "2016"
+  },
+  "hyundai_elantra_2017": {
+    "make": "Hyundai",
+    "model": "ELANTRA",
+    "year": "2017"
+  },
+  "hyundai_ioniq_2017": {
+    "make": "Hyundai",
+    "model": "IONIQ",
+    "year": "2017"
+  },
+  "hyundai_ioniq_2019": {
+    "make": "Hyundai",
+    "model": "IONIQ",
+    "year": "2019"
+  },
+  "hyundai_palisade_2020": {
+    "make": "Hyundai",
+    "model": "PALISADE",
+    "year": "2020"
+  },
+  "hyundai_santa fe_2011": {
+    "make": "Hyundai",
+    "model": "SANTA FE",
+    "year": "2011"
+  },
+  "hyundai_santa fe_2013": {
+    "make": "Hyundai",
+    "model": "SANTA FE",
+    "year": "2013"
+  },
+  "hyundai_santa fe_2017": {
+    "make": "Hyundai",
+    "model": "SANTA FE",
+    "year": "2017"
+  },
+  "hyundai_santa fe_2019": {
+    "make": "Hyundai",
+    "model": "SANTA FE",
+    "year": "2019"
+  },
+  "hyundai_sonata_2011": {
+    "make": "Hyundai",
+    "model": "SONATA",
+    "year": "2011"
+  },
+  "hyundai_sonata_2015": {
+    "make": "Hyundai",
+    "model": "SONATA",
+    "year": "2015"
+  },
+  "hyundai_sonata_2016": {
+    "make": "Hyundai",
+    "model": "SONATA",
+    "year": "2016"
+  },
+  "hyundai_sonata_2017": {
+    "make": "Hyundai",
+    "model": "SONATA",
+    "year": "2017"
+  },
+  "hyundai_sonata_2019": {
+    "make": "Hyundai",
+    "model": "SONATA",
+    "year": "2019"
+  },
+  "hyundai_sonata_2020": {
+    "make": "Hyundai",
+    "model": "SONATA",
+    "year": "2020"
+  },
+  "hyundai_tucson_2011": {
+    "make": "Hyundai",
+    "model": "TUCSON",
+    "year": "2011"
+  },
+  "hyundai_tucson_2019": {
+    "make": "Hyundai",
+    "model": "TUCSON",
+    "year": "2019"
+  },
+  "hyundai_veloster_2012": {
+    "make": "Hyundai",
+    "model": "VELOSTER",
+    "year": "2012"
+  },
+  "hyundai_veloster_2016": {
+    "make": "Hyundai",
+    "model": "VELOSTER",
+    "year": "2016"
+  },
+  "hyundai_veloster_2019": {
+    "make": "Hyundai",
+    "model": "VELOSTER",
+    "year": "2019"
+  },
+  "infiniti_q50_2014": {
+    "make": "Infiniti",
+    "model": "Q50",
+    "year": "2014"
+  },
+  "infiniti_q50_2015": {
+    "make": "Infiniti",
+    "model": "Q50",
+    "year": "2015"
+  },
+  "infiniti_q50_2016": {
+    "make": "Infiniti",
+    "model": "Q50",
+    "year": "2016"
+  },
+  "infiniti_q50_2020": {
+    "make": "Infiniti",
+    "model": "Q50",
+    "year": "2020"
+  },
+  "infiniti_q60_2015": {
+    "make": "Infiniti",
+    "model": "Q60",
+    "year": "2015"
+  },
+  "infiniti_q60_2017": {
+    "make": "Infiniti",
+    "model": "Q60",
+    "year": "2017"
+  },
+  "infiniti_q60_2020": {
+    "make": "Infiniti",
+    "model": "Q60",
+    "year": "2020"
+  },
+  "infiniti_q70_2014": {
+    "make": "Infiniti",
+    "model": "Q70",
+    "year": "2014"
+  },
+  "infiniti_q70_2019": {
+    "make": "Infiniti",
+    "model": "Q70",
+    "year": "2019"
+  },
+  "infiniti_qx50_2020": {
+    "make": "Infiniti",
+    "model": "QX50",
+    "year": "2020"
+  },
+  "jaguar_e-pace_2020": {
+    "make": "Jaguar",
+    "model": "E-PACE",
+    "year": "2020"
+  },
+  "jaguar_f-pace_2017": {
+    "make": "Jaguar",
+    "model": "F-PACE",
+    "year": "2017"
+  },
+  "jaguar_f-pace_2019": {
+    "make": "Jaguar",
+    "model": "F-PACE",
+    "year": "2019"
+  },
+  "jaguar_f-type_2014": {
+    "make": "Jaguar",
+    "model": "F-TYPE",
+    "year": "2014"
+  },
+  "jaguar_f-type_2015": {
+    "make": "Jaguar",
+    "model": "F-TYPE",
+    "year": "2015"
+  },
+  "jaguar_f-type_2016": {
+    "make": "Jaguar",
+    "model": "F-TYPE",
+    "year": "2016"
+  },
+  "jaguar_f-type_2017": {
+    "make": "Jaguar",
+    "model": "F-TYPE",
+    "year": "2017"
+  },
+  "jaguar_i-pace_2020": {
+    "make": "Jaguar",
+    "model": "I-PACE",
+    "year": "2020"
+  },
+  "jaguar_xe_2017": {
+    "make": "Jaguar",
+    "model": "XE",
+    "year": "2017"
+  },
+  "jaguar_xe_2019": {
+    "make": "Jaguar",
+    "model": "XE",
+    "year": "2019"
+  },
+  "jaguar_xf_2011": {
+    "make": "Jaguar",
+    "model": "XF",
+    "year": "2011"
+  },
+  "jaguar_xf_2012": {
+    "make": "Jaguar",
+    "model": "XF",
+    "year": "2012"
+  },
+  "jaguar_xf_2013": {
+    "make": "Jaguar",
+    "model": "XF",
+    "year": "2013"
+  },
+  "jaguar_xf_2014": {
+    "make": "Jaguar",
+    "model": "XF",
+    "year": "2014"
+  },
+  "jaguar_xf_2016": {
+    "make": "Jaguar",
+    "model": "XF",
+    "year": "2016"
+  },
+  "jaguar_xf_2019": {
+    "make": "Jaguar",
+    "model": "XF",
+    "year": "2019"
+  },
+  "jaguar_xj_2010": {
+    "make": "Jaguar",
+    "model": "XJ",
+    "year": "2010"
+  },
+  "jaguar_xj_2011": {
+    "make": "Jaguar",
+    "model": "XJ",
+    "year": "2011"
+  },
+  "jeep_cherokee_2015": {
+    "make": "Jeep",
+    "model": "CHEROKEE",
+    "year": "2015"
+  },
+  "jeep_compass_2011": {
+    "make": "Jeep",
+    "model": "COMPASS",
+    "year": "2011"
+  },
+  "jeep_compass_2017": {
+    "make": "Jeep",
+    "model": "COMPASS",
+    "year": "2017"
+  },
+  "jeep_compass_2019": {
+    "make": "Jeep",
+    "model": "COMPASS",
+    "year": "2019"
+  },
+  "jeep_grand cherokee_2011": {
+    "make": "Jeep",
+    "model": "GRAND CHEROKEE",
+    "year": "2011"
+  },
+  "jeep_grand cherokee_2014": {
+    "make": "Jeep",
+    "model": "GRAND CHEROKEE",
+    "year": "2014"
+  },
+  "jeep_grand cherokee_2017": {
+    "make": "Jeep",
+    "model": "GRAND CHEROKEE",
+    "year": "2017"
+  },
+  "jeep_grand cherokee_2019": {
+    "make": "Jeep",
+    "model": "GRAND CHEROKEE",
+    "year": "2019"
+  },
+  "jeep_renegade_2015": {
+    "make": "Jeep",
+    "model": "RENEGADE",
+    "year": "2015"
+  },
+  "jeep_renegade_2019": {
+    "make": "Jeep",
+    "model": "RENEGADE",
+    "year": "2019"
+  },
+  "jeep_wrangler_2011": {
+    "make": "Jeep",
+    "model": "WRANGLER",
+    "year": "2011"
+  },
+  "jeep_wrangler_2012": {
+    "make": "Jeep",
+    "model": "WRANGLER",
+    "year": "2012"
+  },
+  "jeep_wrangler_2014": {
+    "make": "Jeep",
+    "model": "WRANGLER",
+    "year": "2014"
+  },
+  "jeep_wrangler_2015": {
+    "make": "Jeep",
+    "model": "WRANGLER",
+    "year": "2015"
+  },
+  "jeep_wrangler_2016": {
+    "make": "Jeep",
+    "model": "WRANGLER",
+    "year": "2016"
+  },
+  "jeep_wrangler_2017": {
+    "make": "Jeep",
+    "model": "WRANGLER",
+    "year": "2017"
+  },
+  "kia_forte_2011": {
+    "make": "Kia",
+    "model": "FORTE",
+    "year": "2011"
+  },
+  "kia_forte_2012": {
+    "make": "Kia",
+    "model": "FORTE",
+    "year": "2012"
+  },
+  "kia_forte_2014": {
+    "make": "Kia",
+    "model": "FORTE",
+    "year": "2014"
+  },
+  "kia_forte_2017": {
+    "make": "Kia",
+    "model": "FORTE",
+    "year": "2017"
+  },
+  "kia_niro_2017": {
+    "make": "Kia",
+    "model": "NIRO",
+    "year": "2017"
+  },
+  "kia_niro_2020": {
+    "make": "Kia",
+    "model": "NIRO",
+    "year": "2020"
+  },
+  "kia_optima_2011": {
+    "make": "Kia",
+    "model": "OPTIMA",
+    "year": "2011"
+  },
+  "kia_optima_2012": {
+    "make": "Kia",
+    "model": "OPTIMA",
+    "year": "2012"
+  },
+  "kia_optima_2013": {
+    "make": "Kia",
+    "model": "OPTIMA",
+    "year": "2013"
+  },
+  "kia_optima_2016": {
+    "make": "Kia",
+    "model": "OPTIMA",
+    "year": "2016"
+  },
+  "kia_optima_2017": {
+    "make": "Kia",
+    "model": "OPTIMA",
+    "year": "2017"
+  },
+  "kia_optima_2019": {
+    "make": "Kia",
+    "model": "OPTIMA",
+    "year": "2019"
+  },
+  "kia_rio_2011": {
+    "make": "Kia",
+    "model": "RIO",
+    "year": "2011"
+  },
+  "kia_rio_2012": {
+    "make": "Kia",
+    "model": "RIO",
+    "year": "2012"
+  },
+  "kia_rio_2016": {
+    "make": "Kia",
+    "model": "RIO",
+    "year": "2016"
+  },
+  "kia_rio_2020": {
+    "make": "Kia",
+    "model": "RIO",
+    "year": "2020"
+  },
+  "kia_sedona_2010": {
+    "make": "Kia",
+    "model": "SEDONA",
+    "year": "2010"
+  },
+  "kia_sorento_2011": {
+    "make": "Kia",
+    "model": "SORENTO",
+    "year": "2011"
+  },
+  "kia_sorento_2019": {
+    "make": "Kia",
+    "model": "SORENTO",
+    "year": "2019"
+  },
+  "kia_soul_2011": {
+    "make": "Kia",
+    "model": "SOUL",
+    "year": "2011"
+  },
+  "kia_soul_2014": {
+    "make": "Kia",
+    "model": "SOUL",
+    "year": "2014"
+  },
+  "kia_sportage_2017": {
+    "make": "Kia",
+    "model": "SPORTAGE",
+    "year": "2017"
+  },
+  "kia_sportage_2019": {
+    "make": "Kia",
+    "model": "SPORTAGE",
+    "year": "2019"
+  },
+  "kia_stinger_2019": {
+    "make": "Kia",
+    "model": "STINGER",
+    "year": "2019"
+  },
+  "kia_telluride_2020": {
+    "make": "Kia",
+    "model": "TELLURIDE",
+    "year": "2020"
+  },
+  "lamborghini_huracan_2015": {
+    "make": "Lamborghini",
+    "model": "HURACAN",
+    "year": "2015"
+  },
+  "lamborghini_huracan_2016": {
+    "make": "Lamborghini",
+    "model": "HURACAN",
+    "year": "2016"
+  },
+  "lamborghini_huracan_2019": {
+    "make": "Lamborghini",
+    "model": "HURACAN",
+    "year": "2019"
+  },
+  "lamborghini_urus_2019": {
+    "make": "Lamborghini",
+    "model": "URUS",
+    "year": "2019"
+  },
+  "land rover_discovery sport_2016": {
+    "make": "Land Rover",
+    "model": "DISCOVERY SPORT",
+    "year": "2016"
+  },
+  "land rover_discovery_2017": {
+    "make": "Land Rover",
+    "model": "DISCOVERY",
+    "year": "2017"
+  },
+  "land rover_range rover evoque_2012": {
+    "make": "Land Rover",
+    "model": "RANGE ROVER EVOQUE",
+    "year": "2012"
+  },
+  "land rover_range rover evoque_2020": {
+    "make": "Land Rover",
+    "model": "RANGE ROVER EVOQUE",
+    "year": "2020"
+  },
+  "land rover_range rover sport_2011": {
+    "make": "Land Rover",
+    "model": "RANGE ROVER SPORT",
+    "year": "2011"
+  },
+  "land rover_range rover sport_2014": {
+    "make": "Land Rover",
+    "model": "RANGE ROVER SPORT",
+    "year": "2014"
+  },
+  "land rover_range rover sport_2016": {
+    "make": "Land Rover",
+    "model": "RANGE ROVER SPORT",
+    "year": "2016"
+  },
+  "land rover_range rover velar_2019": {
+    "make": "Land Rover",
+    "model": "RANGE ROVER VELAR",
+    "year": "2019"
+  },
+  "land rover_range rover_2011": {
+    "make": "Land Rover",
+    "model": "RANGE ROVER",
+    "year": "2011"
+  },
+  "land rover_range rover_2013": {
+    "make": "Land Rover",
+    "model": "RANGE ROVER",
+    "year": "2013"
+  },
+  "land rover_range rover_2020": {
+    "make": "Land Rover",
+    "model": "RANGE ROVER",
+    "year": "2020"
+  },
+  "lexus_es_2011": {
+    "make": "Lexus",
+    "model": "ES",
+    "year": "2011"
+  },
+  "lexus_es_2013": {
+    "make": "Lexus",
+    "model": "ES",
+    "year": "2013"
+  },
+  "lexus_es_2020": {
+    "make": "Lexus",
+    "model": "ES",
+    "year": "2020"
+  },
+  "lexus_gs_2010": {
+    "make": "Lexus",
+    "model": "GS",
+    "year": "2010"
+  },
+  "lexus_gs_2013": {
+    "make": "Lexus",
+    "model": "GS",
+    "year": "2013"
+  },
+  "lexus_gs_2017": {
+    "make": "Lexus",
+    "model": "GS",
+    "year": "2017"
+  },
+  "lexus_gs_2020": {
+    "make": "Lexus",
+    "model": "GS",
+    "year": "2020"
+  },
+  "lexus_is_2011": {
+    "make": "Lexus",
+    "model": "IS",
+    "year": "2011"
+  },
+  "lexus_is_2012": {
+    "make": "Lexus",
+    "model": "IS",
+    "year": "2012"
+  },
+  "lexus_is_2015": {
+    "make": "Lexus",
+    "model": "IS",
+    "year": "2015"
+  },
+  "lexus_is_2019": {
+    "make": "Lexus",
+    "model": "IS",
+    "year": "2019"
+  },
+  "lexus_lc_2019": {
+    "make": "Lexus",
+    "model": "LC",
+    "year": "2019"
+  },
+  "lexus_ls_2011": {
+    "make": "Lexus",
+    "model": "LS",
+    "year": "2011"
+  },
+  "lexus_ls_2019": {
+    "make": "Lexus",
+    "model": "LS",
+    "year": "2019"
+  },
+  "lexus_lx_2010": {
+    "make": "Lexus",
+    "model": "LX",
+    "year": "2010"
+  },
+  "lexus_lx_2017": {
+    "make": "Lexus",
+    "model": "LX",
+    "year": "2017"
+  },
+  "lexus_rc_2015": {
+    "make": "Lexus",
+    "model": "RC",
+    "year": "2015"
+  },
+  "lexus_rc_2017": {
+    "make": "Lexus",
+    "model": "RC",
+    "year": "2017"
+  },
+  "lexus_rc_2019": {
+    "make": "Lexus",
+    "model": "RC",
+    "year": "2019"
+  },
+  "lexus_rx_2011": {
+    "make": "Lexus",
+    "model": "RX",
+    "year": "2011"
+  },
+  "lexus_rx_2016": {
+    "make": "Lexus",
+    "model": "RX",
+    "year": "2016"
+  },
+  "lexus_rx_2019": {
+    "make": "Lexus",
+    "model": "RX",
+    "year": "2019"
+  },
+  "lincoln_aviator_2004": {
+    "make": "Lincoln",
+    "model": "AVIATOR",
+    "year": "2004"
+  },
+  "lincoln_aviator_2005": {
+    "make": "Lincoln",
+    "model": "AVIATOR",
+    "year": "2005"
+  },
+  "lincoln_aviator_2020": {
+    "make": "Lincoln",
+    "model": "AVIATOR",
+    "year": "2020"
+  },
+  "lincoln_continental_2017": {
+    "make": "Lincoln",
+    "model": "CONTINENTAL",
+    "year": "2017"
+  },
+  "lincoln_continental_2019": {
+    "make": "Lincoln",
+    "model": "CONTINENTAL",
+    "year": "2019"
+  },
+  "lincoln_corsair_2020": {
+    "make": "Lincoln",
+    "model": "CORSAIR",
+    "year": "2020"
+  },
+  "lincoln_mkc_2015": {
+    "make": "Lincoln",
+    "model": "MKC",
+    "year": "2015"
+  },
+  "lincoln_mkt_2010": {
+    "make": "Lincoln",
+    "model": "MKT",
+    "year": "2010"
+  },
+  "lincoln_mkz_2011": {
+    "make": "Lincoln",
+    "model": "MKZ",
+    "year": "2011"
+  },
+  "lincoln_mkz_2013": {
+    "make": "Lincoln",
+    "model": "MKZ",
+    "year": "2013"
+  },
+  "lincoln_mkz_2016": {
+    "make": "Lincoln",
+    "model": "MKZ",
+    "year": "2016"
+  },
+  "lincoln_mkz_2019": {
+    "make": "Lincoln",
+    "model": "MKZ",
+    "year": "2019"
+  },
+  "lincoln_nautilus_2019": {
+    "make": "Lincoln",
+    "model": "NAUTILUS",
+    "year": "2019"
+  },
+  "lincoln_navigator_2011": {
+    "make": "Lincoln",
+    "model": "NAVIGATOR",
+    "year": "2011"
+  },
+  "lincoln_navigator_2015": {
+    "make": "Lincoln",
+    "model": "NAVIGATOR",
+    "year": "2015"
+  },
+  "lincoln_navigator_2019": {
+    "make": "Lincoln",
+    "model": "NAVIGATOR",
+    "year": "2019"
+  },
+  "maserati_granturismo_2010": {
+    "make": "Maserati",
+    "model": "GRANTURISMO",
+    "year": "2010"
+  },
+  "maserati_granturismo_2011": {
+    "make": "Maserati",
+    "model": "GRANTURISMO",
+    "year": "2011"
+  },
+  "maserati_quattroporte_2011": {
+    "make": "Maserati",
+    "model": "QUATTROPORTE",
+    "year": "2011"
+  },
+  "mazda_cx-3_2016": {
+    "make": "Mazda",
+    "model": "CX-3",
+    "year": "2016"
+  },
+  "mazda_cx-5_2013": {
+    "make": "Mazda",
+    "model": "CX-5",
+    "year": "2013"
+  },
+  "mazda_cx-5_2016": {
+    "make": "Mazda",
+    "model": "CX-5",
+    "year": "2016"
+  },
+  "mazda_cx-5_2017": {
+    "make": "Mazda",
+    "model": "CX-5",
+    "year": "2017"
+  },
+  "mazda_cx-9_2011": {
+    "make": "Mazda",
+    "model": "CX-9",
+    "year": "2011"
+  },
+  "mazda_mazda3_2011": {
+    "make": "Mazda",
+    "model": "MAZDA3",
+    "year": "2011"
+  },
+  "mazda_mazda3_2012": {
+    "make": "Mazda",
+    "model": "MAZDA3",
+    "year": "2012"
+  },
+  "mazda_mazda3_2014": {
+    "make": "Mazda",
+    "model": "MAZDA3",
+    "year": "2014"
+  },
+  "mazda_mazda3_2017": {
+    "make": "Mazda",
+    "model": "MAZDA3",
+    "year": "2017"
+  },
+  "mazda_mazda6_2011": {
+    "make": "Mazda",
+    "model": "MAZDA6",
+    "year": "2011"
+  },
+  "mazda_mazda6_2014": {
+    "make": "Mazda",
+    "model": "MAZDA6",
+    "year": "2014"
+  },
+  "mazda_mazda6_2017": {
+    "make": "Mazda",
+    "model": "MAZDA6",
+    "year": "2017"
+  },
+  "mazda_mazda6_2019": {
+    "make": "Mazda",
+    "model": "MAZDA6",
+    "year": "2019"
+  },
+  "mazda_mx-5 miata_2010": {
+    "make": "Mazda",
+    "model": "MX-5 MIATA",
+    "year": "2010"
+  },
+  "mazda_mx-5 miata_2016": {
+    "make": "Mazda",
+    "model": "MX-5 MIATA",
+    "year": "2016"
+  },
+  "mazda_mx-5 miata_2017": {
+    "make": "Mazda",
+    "model": "MX-5 MIATA",
+    "year": "2017"
+  },
+  "mazda_mx-5 miata_2019": {
+    "make": "Mazda",
+    "model": "MX-5 MIATA",
+    "year": "2019"
+  },
+  "mclaren_720s_2020": {
+    "make": "Mclaren",
+    "model": "720S",
+    "year": "2020"
+  },
+  "mercedes-benz_a class_2020": {
+    "make": "Mercedes-Benz",
+    "model": "A CLASS",
+    "year": "2020"
+  },
+  "mercedes-benz_c class_2011": {
+    "make": "Mercedes-Benz",
+    "model": "C CLASS",
+    "year": "2011"
+  },
+  "mercedes-benz_c class_2012": {
+    "make": "Mercedes-Benz",
+    "model": "C CLASS",
+    "year": "2012"
+  },
+  "mercedes-benz_c class_2015": {
+    "make": "Mercedes-Benz",
+    "model": "C CLASS",
+    "year": "2015"
+  },
+  "mercedes-benz_c class_2016": {
+    "make": "Mercedes-Benz",
+    "model": "C CLASS",
+    "year": "2016"
+  },
+  "mercedes-benz_c class_2017": {
+    "make": "Mercedes-Benz",
+    "model": "C CLASS",
+    "year": "2017"
+  },
+  "mercedes-benz_c class_2020": {
+    "make": "Mercedes-Benz",
+    "model": "C CLASS",
+    "year": "2020"
+  },
+  "mercedes-benz_cla class_2014": {
+    "make": "Mercedes-Benz",
+    "model": "CLA CLASS",
+    "year": "2014"
+  },
+  "mercedes-benz_cls class_2011": {
+    "make": "Mercedes-Benz",
+    "model": "CLS CLASS",
+    "year": "2011"
+  },
+  "mercedes-benz_cls class_2012": {
+    "make": "Mercedes-Benz",
+    "model": "CLS CLASS",
+    "year": "2012"
+  },
+  "mercedes-benz_cls class_2019": {
+    "make": "Mercedes-Benz",
+    "model": "CLS CLASS",
+    "year": "2019"
+  },
+  "mercedes-benz_e class_2011": {
+    "make": "Mercedes-Benz",
+    "model": "E CLASS",
+    "year": "2011"
+  },
+  "mercedes-benz_e class_2012": {
+    "make": "Mercedes-Benz",
+    "model": "E CLASS",
+    "year": "2012"
+  },
+  "mercedes-benz_e class_2013": {
+    "make": "Mercedes-Benz",
+    "model": "E CLASS",
+    "year": "2013"
+  },
+  "mercedes-benz_e class_2014": {
+    "make": "Mercedes-Benz",
+    "model": "E CLASS",
+    "year": "2014"
+  },
+  "mercedes-benz_e class_2015": {
+    "make": "Mercedes-Benz",
+    "model": "E CLASS",
+    "year": "2015"
+  },
+  "mercedes-benz_e class_2016": {
+    "make": "Mercedes-Benz",
+    "model": "E CLASS",
+    "year": "2016"
+  },
+  "mercedes-benz_e class_2017": {
+    "make": "Mercedes-Benz",
+    "model": "E CLASS",
+    "year": "2017"
+  },
+  "mercedes-benz_e class_2020": {
+    "make": "Mercedes-Benz",
+    "model": "E CLASS",
+    "year": "2020"
+  },
+  "mercedes-benz_g class_2011": {
+    "make": "Mercedes-Benz",
+    "model": "G CLASS",
+    "year": "2011"
+  },
+  "mercedes-benz_g class_2017": {
+    "make": "Mercedes-Benz",
+    "model": "G CLASS",
+    "year": "2017"
+  },
+  "mercedes-benz_g class_2020": {
+    "make": "Mercedes-Benz",
+    "model": "G CLASS",
+    "year": "2020"
+  },
+  "mercedes-benz_gla class_2019": {
+    "make": "Mercedes-Benz",
+    "model": "GLA CLASS",
+    "year": "2019"
+  },
+  "mercedes-benz_glb class_2020": {
+    "make": "Mercedes-Benz",
+    "model": "GLB CLASS",
+    "year": "2020"
+  },
+  "mercedes-benz_glc class_2016": {
+    "make": "Mercedes-Benz",
+    "model": "GLC CLASS",
+    "year": "2016"
+  },
+  "mercedes-benz_glc class_2017": {
+    "make": "Mercedes-Benz",
+    "model": "GLC CLASS",
+    "year": "2017"
+  },
+  "mercedes-benz_glc class_2019": {
+    "make": "Mercedes-Benz",
+    "model": "GLC CLASS",
+    "year": "2019"
+  },
+  "mercedes-benz_glc class_2020": {
+    "make": "Mercedes-Benz",
+    "model": "GLC CLASS",
+    "year": "2020"
+  },
+  "mercedes-benz_gle class_2016": {
+    "make": "Mercedes-Benz",
+    "model": "GLE CLASS",
+    "year": "2016"
+  },
+  "mercedes-benz_gle class_2017": {
+    "make": "Mercedes-Benz",
+    "model": "GLE CLASS",
+    "year": "2017"
+  },
+  "mercedes-benz_gle class_2019": {
+    "make": "Mercedes-Benz",
+    "model": "GLE CLASS",
+    "year": "2019"
+  },
+  "mercedes-benz_gle class_2020": {
+    "make": "Mercedes-Benz",
+    "model": "GLE CLASS",
+    "year": "2020"
+  },
+  "mercedes-benz_s class_2011": {
+    "make": "Mercedes-Benz",
+    "model": "S CLASS",
+    "year": "2011"
+  },
+  "mercedes-benz_s class_2014": {
+    "make": "Mercedes-Benz",
+    "model": "S CLASS",
+    "year": "2014"
+  },
+  "mercedes-benz_s class_2015": {
+    "make": "Mercedes-Benz",
+    "model": "S CLASS",
+    "year": "2015"
+  },
+  "mercedes-benz_s class_2016": {
+    "make": "Mercedes-Benz",
+    "model": "S CLASS",
+    "year": "2016"
+  },
+  "mercedes-benz_s class_2017": {
+    "make": "Mercedes-Benz",
+    "model": "S CLASS",
+    "year": "2017"
+  },
+  "mercedes-benz_s class_2020": {
+    "make": "Mercedes-Benz",
+    "model": "S CLASS",
+    "year": "2020"
+  },
+  "mercedes-benz_sl class_2011": {
+    "make": "Mercedes-Benz",
+    "model": "SL CLASS",
+    "year": "2011"
+  },
+  "mercedes-benz_sl class_2013": {
+    "make": "Mercedes-Benz",
+    "model": "SL CLASS",
+    "year": "2013"
+  },
+  "mercedes-benz_sl class_2017": {
+    "make": "Mercedes-Benz",
+    "model": "SL CLASS",
+    "year": "2017"
+  },
+  "mercedes-benz_sl class_2019": {
+    "make": "Mercedes-Benz",
+    "model": "SL CLASS",
+    "year": "2019"
+  },
+  "mercedes-benz_slc class_2017": {
+    "make": "Mercedes-Benz",
+    "model": "SLC CLASS",
+    "year": "2017"
+  },
+  "mercedes-benz_slc class_2019": {
+    "make": "Mercedes-Benz",
+    "model": "SLC CLASS",
+    "year": "2019"
+  },
+  "mini_clubman_2010": {
+    "make": "Mini",
+    "model": "CLUBMAN",
+    "year": "2010"
+  },
+  "mini_clubman_2019": {
+    "make": "Mini",
+    "model": "CLUBMAN",
+    "year": "2019"
+  },
+  "mini_cooper countryman_2011": {
+    "make": "Mini",
+    "model": "COOPER COUNTRYMAN",
+    "year": "2011"
+  },
+  "mini_cooper countryman_2012": {
+    "make": "Mini",
+    "model": "COOPER COUNTRYMAN",
+    "year": "2012"
+  },
+  "mini_cooper countryman_2016": {
+    "make": "Mini",
+    "model": "COOPER COUNTRYMAN",
+    "year": "2016"
+  },
+  "mini_cooper countryman_2017": {
+    "make": "Mini",
+    "model": "COOPER COUNTRYMAN",
+    "year": "2017"
+  },
+  "mini_cooper countryman_2019": {
+    "make": "Mini",
+    "model": "COOPER COUNTRYMAN",
+    "year": "2019"
+  },
+  "mini_cooper_2011": {
+    "make": "Mini",
+    "model": "COOPER",
+    "year": "2011"
+  },
+  "mini_cooper_2012": {
+    "make": "Mini",
+    "model": "COOPER",
+    "year": "2012"
+  },
+  "mini_cooper_2013": {
+    "make": "Mini",
+    "model": "COOPER",
+    "year": "2013"
+  },
+  "mini_cooper_2014": {
+    "make": "Mini",
+    "model": "COOPER",
+    "year": "2014"
+  },
+  "mini_cooper_2015": {
+    "make": "Mini",
+    "model": "COOPER",
+    "year": "2015"
+  },
+  "mini_cooper_2016": {
+    "make": "Mini",
+    "model": "COOPER",
+    "year": "2016"
+  },
+  "mini_cooper_2017": {
+    "make": "Mini",
+    "model": "COOPER",
+    "year": "2017"
+  },
+  "mini_cooper_2019": {
+    "make": "Mini",
+    "model": "COOPER",
+    "year": "2019"
+  },
+  "mini_cooper_2020": {
+    "make": "Mini",
+    "model": "COOPER",
+    "year": "2020"
+  },
+  "mitsubishi_eclipse cross_2019": {
+    "make": "Mitsubishi",
+    "model": "ECLIPSE CROSS",
+    "year": "2019"
+  },
+  "mitsubishi_mirage_2014": {
+    "make": "Mitsubishi",
+    "model": "MIRAGE",
+    "year": "2014"
+  },
+  "mitsubishi_mirage_2019": {
+    "make": "Mitsubishi",
+    "model": "MIRAGE",
+    "year": "2019"
+  },
+  "mitsubishi_outlander sport_2017": {
+    "make": "Mitsubishi",
+    "model": "OUTLANDER SPORT",
+    "year": "2017"
+  },
+  "mitsubishi_outlander_2011": {
+    "make": "Mitsubishi",
+    "model": "OUTLANDER",
+    "year": "2011"
+  },
+  "mitsubishi_outlander_2014": {
+    "make": "Mitsubishi",
+    "model": "OUTLANDER",
+    "year": "2014"
+  },
+  "mitsubishi_outlander_2016": {
+    "make": "Mitsubishi",
+    "model": "OUTLANDER",
+    "year": "2016"
+  },
+  "mitsubishi_outlander_2019": {
+    "make": "Mitsubishi",
+    "model": "OUTLANDER",
+    "year": "2019"
+  },
+  "nissan_370z_2011": {
+    "make": "Nissan",
+    "model": "370Z",
+    "year": "2011"
+  },
+  "nissan_370z_2014": {
+    "make": "Nissan",
+    "model": "370Z",
+    "year": "2014"
+  },
+  "nissan_370z_2015": {
+    "make": "Nissan",
+    "model": "370Z",
+    "year": "2015"
+  },
+  "nissan_370z_2017": {
+    "make": "Nissan",
+    "model": "370Z",
+    "year": "2017"
+  },
+  "nissan_370z_2019": {
+    "make": "Nissan",
+    "model": "370Z",
+    "year": "2019"
+  },
+  "nissan_altima_2011": {
+    "make": "Nissan",
+    "model": "ALTIMA",
+    "year": "2011"
+  },
+  "nissan_altima_2013": {
+    "make": "Nissan",
+    "model": "ALTIMA",
+    "year": "2013"
+  },
+  "nissan_altima_2019": {
+    "make": "Nissan",
+    "model": "ALTIMA",
+    "year": "2019"
+  },
+  "nissan_armada_2010": {
+    "make": "Nissan",
+    "model": "ARMADA",
+    "year": "2010"
+  },
+  "nissan_armada_2020": {
+    "make": "Nissan",
+    "model": "ARMADA",
+    "year": "2020"
+  },
+  "nissan_frontier_2010": {
+    "make": "Nissan",
+    "model": "FRONTIER",
+    "year": "2010"
+  },
+  "nissan_frontier_2019": {
+    "make": "Nissan",
+    "model": "FRONTIER",
+    "year": "2019"
+  },
+  "nissan_gt-r_2011": {
+    "make": "Nissan",
+    "model": "GT-R",
+    "year": "2011"
+  },
+  "nissan_gt-r_2012": {
+    "make": "Nissan",
+    "model": "GT-R",
+    "year": "2012"
+  },
+  "nissan_gt-r_2015": {
+    "make": "Nissan",
+    "model": "GT-R",
+    "year": "2015"
+  },
+  "nissan_gt-r_2017": {
+    "make": "Nissan",
+    "model": "GT-R",
+    "year": "2017"
+  },
+  "nissan_leaf_2011": {
+    "make": "Nissan",
+    "model": "LEAF",
+    "year": "2011"
+  },
+  "nissan_leaf_2012": {
+    "make": "Nissan",
+    "model": "LEAF",
+    "year": "2012"
+  },
+  "nissan_leaf_2019": {
+    "make": "Nissan",
+    "model": "LEAF",
+    "year": "2019"
+  },
+  "nissan_maxima_2010": {
+    "make": "Nissan",
+    "model": "MAXIMA",
+    "year": "2010"
+  },
+  "nissan_maxima_2016": {
+    "make": "Nissan",
+    "model": "MAXIMA",
+    "year": "2016"
+  },
+  "nissan_maxima_2017": {
+    "make": "Nissan",
+    "model": "MAXIMA",
+    "year": "2017"
+  },
+  "nissan_maxima_2019": {
+    "make": "Nissan",
+    "model": "MAXIMA",
+    "year": "2019"
+  },
+  "nissan_murano_2011": {
+    "make": "Nissan",
+    "model": "MURANO",
+    "year": "2011"
+  },
+  "nissan_murano_2015": {
+    "make": "Nissan",
+    "model": "MURANO",
+    "year": "2015"
+  },
+  "nissan_murano_2017": {
+    "make": "Nissan",
+    "model": "MURANO",
+    "year": "2017"
+  },
+  "nissan_murano_2019": {
+    "make": "Nissan",
+    "model": "MURANO",
+    "year": "2019"
+  },
+  "nissan_pathfinder_2011": {
+    "make": "Nissan",
+    "model": "PATHFINDER",
+    "year": "2011"
+  },
+  "nissan_pathfinder_2013": {
+    "make": "Nissan",
+    "model": "PATHFINDER",
+    "year": "2013"
+  },
+  "nissan_rogue sport_2019": {
+    "make": "Nissan",
+    "model": "ROGUE SPORT",
+    "year": "2019"
+  },
+  "nissan_rogue_2011": {
+    "make": "Nissan",
+    "model": "ROGUE",
+    "year": "2011"
+  },
+  "nissan_rogue_2019": {
+    "make": "Nissan",
+    "model": "ROGUE",
+    "year": "2019"
+  },
+  "nissan_sentra_2011": {
+    "make": "Nissan",
+    "model": "SENTRA",
+    "year": "2011"
+  },
+  "nissan_titan_2011": {
+    "make": "Nissan",
+    "model": "TITAN",
+    "year": "2011"
+  },
+  "nissan_titan_2017": {
+    "make": "Nissan",
+    "model": "TITAN",
+    "year": "2017"
+  },
+  "nissan_titan_2019": {
+    "make": "Nissan",
+    "model": "TITAN",
+    "year": "2019"
+  },
+  "nissan_titan_2020": {
+    "make": "Nissan",
+    "model": "TITAN",
+    "year": "2020"
+  },
+  "nissan_versa_2011": {
+    "make": "Nissan",
+    "model": "VERSA",
+    "year": "2011"
+  },
+  "nissan_versa_2012": {
+    "make": "Nissan",
+    "model": "VERSA",
+    "year": "2012"
+  },
+  "nissan_versa_2014": {
+    "make": "Nissan",
+    "model": "VERSA",
+    "year": "2014"
+  },
+  "porsche_718_2017": {
+    "make": "Porsche",
+    "model": "718",
+    "year": "2017"
+  },
+  "porsche_718_2019": {
+    "make": "Porsche",
+    "model": "718",
+    "year": "2019"
+  },
+  "porsche_911_2011": {
+    "make": "Porsche",
+    "model": "911",
+    "year": "2011"
+  },
+  "porsche_911_2012": {
+    "make": "Porsche",
+    "model": "911",
+    "year": "2012"
+  },
+  "porsche_911_2014": {
+    "make": "Porsche",
+    "model": "911",
+    "year": "2014"
+  },
+  "porsche_911_2015": {
+    "make": "Porsche",
+    "model": "911",
+    "year": "2015"
+  },
+  "porsche_911_2017": {
+    "make": "Porsche",
+    "model": "911",
+    "year": "2017"
+  },
+  "porsche_911_2019": {
+    "make": "Porsche",
+    "model": "911",
+    "year": "2019"
+  },
+  "porsche_911_2020": {
+    "make": "Porsche",
+    "model": "911",
+    "year": "2020"
+  },
+  "porsche_cayenne_2011": {
+    "make": "Porsche",
+    "model": "CAYENNE",
+    "year": "2011"
+  },
+  "porsche_cayenne_2014": {
+    "make": "Porsche",
+    "model": "CAYENNE",
+    "year": "2014"
+  },
+  "porsche_cayenne_2019": {
+    "make": "Porsche",
+    "model": "CAYENNE",
+    "year": "2019"
+  },
+  "porsche_macan_2015": {
+    "make": "Porsche",
+    "model": "MACAN",
+    "year": "2015"
+  },
+  "porsche_macan_2019": {
+    "make": "Porsche",
+    "model": "MACAN",
+    "year": "2019"
+  },
+  "porsche_panamera_2011": {
+    "make": "Porsche",
+    "model": "PANAMERA",
+    "year": "2011"
+  },
+  "porsche_panamera_2020": {
+    "make": "Porsche",
+    "model": "PANAMERA",
+    "year": "2020"
+  },
+  "porsche_taycan_2020": {
+    "make": "Porsche",
+    "model": "TAYCAN",
+    "year": "2020"
+  },
+  "ram_1500_2011": {
+    "make": "Ram",
+    "model": "1500",
+    "year": "2011"
+  },
+  "ram_1500_2012": {
+    "make": "Ram",
+    "model": "1500",
+    "year": "2012"
+  },
+  "ram_1500_2013": {
+    "make": "Ram",
+    "model": "1500",
+    "year": "2013"
+  },
+  "ram_1500_2014": {
+    "make": "Ram",
+    "model": "1500",
+    "year": "2014"
+  },
+  "ram_1500_2015": {
+    "make": "Ram",
+    "model": "1500",
+    "year": "2015"
+  },
+  "ram_1500_2016": {
+    "make": "Ram",
+    "model": "1500",
+    "year": "2016"
+  },
+  "ram_1500_2017": {
+    "make": "Ram",
+    "model": "1500",
+    "year": "2017"
+  },
+  "ram_1500_2019": {
+    "make": "Ram",
+    "model": "1500",
+    "year": "2019"
+  },
+  "ram_2500_2011": {
+    "make": "Ram",
+    "model": "2500",
+    "year": "2011"
+  },
+  "ram_2500_2012": {
+    "make": "Ram",
+    "model": "2500",
+    "year": "2012"
+  },
+  "ram_2500_2014": {
+    "make": "Ram",
+    "model": "2500",
+    "year": "2014"
+  },
+  "ram_2500_2016": {
+    "make": "Ram",
+    "model": "2500",
+    "year": "2016"
+  },
+  "ram_2500_2017": {
+    "make": "Ram",
+    "model": "2500",
+    "year": "2017"
+  },
+  "rolls-royce_ghost_2015": {
+    "make": "Rolls-Royce",
+    "model": "GHOST",
+    "year": "2015"
+  },
+  "smart_fortwo_2010": {
+    "make": "Smart",
+    "model": "FORTWO",
+    "year": "2010"
+  },
+  "smart_fortwo_2011": {
+    "make": "Smart",
+    "model": "FORTWO",
+    "year": "2011"
+  },
+  "smart_fortwo_2013": {
+    "make": "Smart",
+    "model": "FORTWO",
+    "year": "2013"
+  },
+  "smart_fortwo_2015": {
+    "make": "Smart",
+    "model": "FORTWO",
+    "year": "2015"
+  },
+  "smart_fortwo_2016": {
+    "make": "Smart",
+    "model": "FORTWO",
+    "year": "2016"
+  },
+  "smart_fortwo_2019": {
+    "make": "Smart",
+    "model": "FORTWO",
+    "year": "2019"
+  },
+  "subaru_ascent_2019": {
+    "make": "Subaru",
+    "model": "ASCENT",
+    "year": "2019"
+  },
+  "subaru_brz_2013": {
+    "make": "Subaru",
+    "model": "BRZ",
+    "year": "2013"
+  },
+  "subaru_crosstrek_2013": {
+    "make": "Subaru",
+    "model": "CROSSTREK",
+    "year": "2013"
+  },
+  "subaru_crosstrek_2014": {
+    "make": "Subaru",
+    "model": "CROSSTREK",
+    "year": "2014"
+  },
+  "subaru_crosstrek_2020": {
+    "make": "Subaru",
+    "model": "CROSSTREK",
+    "year": "2020"
+  },
+  "subaru_forester_2011": {
+    "make": "Subaru",
+    "model": "FORESTER",
+    "year": "2011"
+  },
+  "subaru_impreza_2011": {
+    "make": "Subaru",
+    "model": "IMPREZA",
+    "year": "2011"
+  },
+  "subaru_impreza_2012": {
+    "make": "Subaru",
+    "model": "IMPREZA",
+    "year": "2012"
+  },
+  "subaru_legacy_2011": {
+    "make": "Subaru",
+    "model": "LEGACY",
+    "year": "2011"
+  },
+  "subaru_legacy_2015": {
+    "make": "Subaru",
+    "model": "LEGACY",
+    "year": "2015"
+  },
+  "subaru_legacy_2019": {
+    "make": "Subaru",
+    "model": "LEGACY",
+    "year": "2019"
+  },
+  "subaru_legacy_2020": {
+    "make": "Subaru",
+    "model": "LEGACY",
+    "year": "2020"
+  },
+  "subaru_outback_2011": {
+    "make": "Subaru",
+    "model": "OUTBACK",
+    "year": "2011"
+  },
+  "subaru_outback_2015": {
+    "make": "Subaru",
+    "model": "OUTBACK",
+    "year": "2015"
+  },
+  "subaru_wrx_2011": {
+    "make": "Subaru",
+    "model": "WRX",
+    "year": "2011"
+  },
+  "subaru_wrx_2015": {
+    "make": "Subaru",
+    "model": "WRX",
+    "year": "2015"
+  },
+  "subaru_wrx_2016": {
+    "make": "Subaru",
+    "model": "WRX",
+    "year": "2016"
+  },
+  "subaru_wrx_2019": {
+    "make": "Subaru",
+    "model": "WRX",
+    "year": "2019"
+  },
+  "tesla_model s_2012": {
+    "make": "Tesla",
+    "model": "MODEL S",
+    "year": "2012"
+  },
+  "toyota_4runner_2011": {
+    "make": "Toyota",
+    "model": "4RUNNER",
+    "year": "2011"
+  },
+  "toyota_4runner_2019": {
+    "make": "Toyota",
+    "model": "4RUNNER",
+    "year": "2019"
+  },
+  "toyota_avalon_2011": {
+    "make": "Toyota",
+    "model": "AVALON",
+    "year": "2011"
+  },
+  "toyota_avalon_2013": {
+    "make": "Toyota",
+    "model": "AVALON",
+    "year": "2013"
+  },
+  "toyota_avalon_2019": {
+    "make": "Toyota",
+    "model": "AVALON",
+    "year": "2019"
+  },
+  "toyota_c-hr_2019": {
+    "make": "Toyota",
+    "model": "C-HR",
+    "year": "2019"
+  },
+  "toyota_camry_2011": {
+    "make": "Toyota",
+    "model": "CAMRY",
+    "year": "2011"
+  },
+  "toyota_camry_2012": {
+    "make": "Toyota",
+    "model": "CAMRY",
+    "year": "2012"
+  },
+  "toyota_camry_2015": {
+    "make": "Toyota",
+    "model": "CAMRY",
+    "year": "2015"
+  },
+  "toyota_camry_2019": {
+    "make": "Toyota",
+    "model": "CAMRY",
+    "year": "2019"
+  },
+  "toyota_corolla_2011": {
+    "make": "Toyota",
+    "model": "COROLLA",
+    "year": "2011"
+  },
+  "toyota_corolla_2014": {
+    "make": "Toyota",
+    "model": "COROLLA",
+    "year": "2014"
+  },
+  "toyota_corolla_2016": {
+    "make": "Toyota",
+    "model": "COROLLA",
+    "year": "2016"
+  },
+  "toyota_corolla_2017": {
+    "make": "Toyota",
+    "model": "COROLLA",
+    "year": "2017"
+  },
+  "toyota_corolla_2019": {
+    "make": "Toyota",
+    "model": "COROLLA",
+    "year": "2019"
+  },
+  "toyota_corolla_2020": {
+    "make": "Toyota",
+    "model": "COROLLA",
+    "year": "2020"
+  },
+  "toyota_highlander_2011": {
+    "make": "Toyota",
+    "model": "HIGHLANDER",
+    "year": "2011"
+  },
+  "toyota_highlander_2012": {
+    "make": "Toyota",
+    "model": "HIGHLANDER",
+    "year": "2012"
+  },
+  "toyota_highlander_2016": {
+    "make": "Toyota",
+    "model": "HIGHLANDER",
+    "year": "2016"
+  },
+  "toyota_highlander_2017": {
+    "make": "Toyota",
+    "model": "HIGHLANDER",
+    "year": "2017"
+  },
+  "toyota_highlander_2019": {
+    "make": "Toyota",
+    "model": "HIGHLANDER",
+    "year": "2019"
+  },
+  "toyota_highlander_2020": {
+    "make": "Toyota",
+    "model": "HIGHLANDER",
+    "year": "2020"
+  },
+  "toyota_land cruiser_2010": {
+    "make": "Toyota",
+    "model": "LAND CRUISER",
+    "year": "2010"
+  },
+  "toyota_mirai_2016": {
+    "make": "Toyota",
+    "model": "MIRAI",
+    "year": "2016"
+  },
+  "toyota_prius c_2016": {
+    "make": "Toyota",
+    "model": "PRIUS C",
+    "year": "2016"
+  },
+  "toyota_prius_2011": {
+    "make": "Toyota",
+    "model": "PRIUS",
+    "year": "2011"
+  },
+  "toyota_prius_2012": {
+    "make": "Toyota",
+    "model": "PRIUS",
+    "year": "2012"
+  },
+  "toyota_prius_2017": {
+    "make": "Toyota",
+    "model": "PRIUS",
+    "year": "2017"
+  },
+  "toyota_prius_2019": {
+    "make": "Toyota",
+    "model": "PRIUS",
+    "year": "2019"
+  },
+  "toyota_rav4_2011": {
+    "make": "Toyota",
+    "model": "RAV4",
+    "year": "2011"
+  },
+  "toyota_rav4_2012": {
+    "make": "Toyota",
+    "model": "RAV4",
+    "year": "2012"
+  },
+  "toyota_rav4_2016": {
+    "make": "Toyota",
+    "model": "RAV4",
+    "year": "2016"
+  },
+  "toyota_rav4_2017": {
+    "make": "Toyota",
+    "model": "RAV4",
+    "year": "2017"
+  },
+  "toyota_rav4_2019": {
+    "make": "Toyota",
+    "model": "RAV4",
+    "year": "2019"
+  },
+  "toyota_sequoia_2011": {
+    "make": "Toyota",
+    "model": "SEQUOIA",
+    "year": "2011"
+  },
+  "toyota_sequoia_2019": {
+    "make": "Toyota",
+    "model": "SEQUOIA",
+    "year": "2019"
+  },
+  "toyota_sienna_2011": {
+    "make": "Toyota",
+    "model": "SIENNA",
+    "year": "2011"
+  },
+  "toyota_sienna_2015": {
+    "make": "Toyota",
+    "model": "SIENNA",
+    "year": "2015"
+  },
+  "toyota_sienna_2016": {
+    "make": "Toyota",
+    "model": "SIENNA",
+    "year": "2016"
+  },
+  "toyota_sienna_2017": {
+    "make": "Toyota",
+    "model": "SIENNA",
+    "year": "2017"
+  },
+  "toyota_sienna_2019": {
+    "make": "Toyota",
+    "model": "SIENNA",
+    "year": "2019"
+  },
+  "toyota_supra_2020": {
+    "make": "Toyota",
+    "model": "SUPRA",
+    "year": "2020"
+  },
+  "toyota_tacoma_2011": {
+    "make": "Toyota",
+    "model": "TACOMA",
+    "year": "2011"
+  },
+  "toyota_tacoma_2015": {
+    "make": "Toyota",
+    "model": "TACOMA",
+    "year": "2015"
+  },
+  "toyota_tacoma_2016": {
+    "make": "Toyota",
+    "model": "TACOMA",
+    "year": "2016"
+  },
+  "toyota_tacoma_2017": {
+    "make": "Toyota",
+    "model": "TACOMA",
+    "year": "2017"
+  },
+  "toyota_tacoma_2019": {
+    "make": "Toyota",
+    "model": "TACOMA",
+    "year": "2019"
+  },
+  "toyota_tundra_2011": {
+    "make": "Toyota",
+    "model": "TUNDRA",
+    "year": "2011"
+  },
+  "toyota_tundra_2014": {
+    "make": "Toyota",
+    "model": "TUNDRA",
+    "year": "2014"
+  },
+  "toyota_tundra_2015": {
+    "make": "Toyota",
+    "model": "TUNDRA",
+    "year": "2015"
+  },
+  "toyota_tundra_2017": {
+    "make": "Toyota",
+    "model": "TUNDRA",
+    "year": "2017"
+  },
+  "toyota_tundra_2019": {
+    "make": "Toyota",
+    "model": "TUNDRA",
+    "year": "2019"
+  },
+  "toyota_yaris_2011": {
+    "make": "Toyota",
+    "model": "YARIS",
+    "year": "2011"
+  },
+  "toyota_yaris_2012": {
+    "make": "Toyota",
+    "model": "YARIS",
+    "year": "2012"
+  },
+  "toyota_yaris_2015": {
+    "make": "Toyota",
+    "model": "YARIS",
+    "year": "2015"
+  },
+  "toyota_yaris_2017": {
+    "make": "Toyota",
+    "model": "YARIS",
+    "year": "2017"
+  },
+  "toyota_yaris_2019": {
+    "make": "Toyota",
+    "model": "YARIS",
+    "year": "2019"
+  },
+  "volkswagen_atlas_2019": {
+    "make": "Volkswagen",
+    "model": "ATLAS",
+    "year": "2019"
+  },
+  "volkswagen_beetle_2010": {
+    "make": "Volkswagen",
+    "model": "BEETLE",
+    "year": "2010"
+  },
+  "volkswagen_beetle_2012": {
+    "make": "Volkswagen",
+    "model": "BEETLE",
+    "year": "2012"
+  },
+  "volkswagen_beetle_2013": {
+    "make": "Volkswagen",
+    "model": "BEETLE",
+    "year": "2013"
+  },
+  "volkswagen_beetle_2014": {
+    "make": "Volkswagen",
+    "model": "BEETLE",
+    "year": "2014"
+  },
+  "volkswagen_beetle_2016": {
+    "make": "Volkswagen",
+    "model": "BEETLE",
+    "year": "2016"
+  },
+  "volkswagen_beetle_2017": {
+    "make": "Volkswagen",
+    "model": "BEETLE",
+    "year": "2017"
+  },
+  "volkswagen_beetle_2019": {
+    "make": "Volkswagen",
+    "model": "BEETLE",
+    "year": "2019"
+  },
+  "volkswagen_golf_2011": {
+    "make": "Volkswagen",
+    "model": "GOLF",
+    "year": "2011"
+  },
+  "volkswagen_golf_2012": {
+    "make": "Volkswagen",
+    "model": "GOLF",
+    "year": "2012"
+  },
+  "volkswagen_golf_2013": {
+    "make": "Volkswagen",
+    "model": "GOLF",
+    "year": "2013"
+  },
+  "volkswagen_golf_2015": {
+    "make": "Volkswagen",
+    "model": "GOLF",
+    "year": "2015"
+  },
+  "volkswagen_golf_2016": {
+    "make": "Volkswagen",
+    "model": "GOLF",
+    "year": "2016"
+  },
+  "volkswagen_golf_2017": {
+    "make": "Volkswagen",
+    "model": "GOLF",
+    "year": "2017"
+  },
+  "volkswagen_golf_2019": {
+    "make": "Volkswagen",
+    "model": "GOLF",
+    "year": "2019"
+  },
+  "volkswagen_jetta_2011": {
+    "make": "Volkswagen",
+    "model": "JETTA",
+    "year": "2011"
+  },
+  "volkswagen_jetta_2012": {
+    "make": "Volkswagen",
+    "model": "JETTA",
+    "year": "2012"
+  },
+  "volkswagen_jetta_2013": {
+    "make": "Volkswagen",
+    "model": "JETTA",
+    "year": "2013"
+  },
+  "volkswagen_jetta_2014": {
+    "make": "Volkswagen",
+    "model": "JETTA",
+    "year": "2014"
+  },
+  "volkswagen_passat_2010": {
+    "make": "Volkswagen",
+    "model": "PASSAT",
+    "year": "2010"
+  },
+  "volkswagen_passat_2012": {
+    "make": "Volkswagen",
+    "model": "PASSAT",
+    "year": "2012"
+  },
+  "volkswagen_passat_2016": {
+    "make": "Volkswagen",
+    "model": "PASSAT",
+    "year": "2016"
+  },
+  "volkswagen_tiguan_2011": {
+    "make": "Volkswagen",
+    "model": "TIGUAN",
+    "year": "2011"
+  },
+  "volkswagen_tiguan_2019": {
+    "make": "Volkswagen",
+    "model": "TIGUAN",
+    "year": "2019"
+  },
+  "volvo_s60_2011": {
+    "make": "Volvo",
+    "model": "S60",
+    "year": "2011"
+  },
+  "volvo_s60_2015": {
+    "make": "Volvo",
+    "model": "S60",
+    "year": "2015"
+  },
+  "volvo_s60_2017": {
+    "make": "Volvo",
+    "model": "S60",
+    "year": "2017"
+  },
+  "volvo_s60_2020": {
+    "make": "Volvo",
+    "model": "S60",
+    "year": "2020"
+  },
+  "volvo_s90_2017": {
+    "make": "Volvo",
+    "model": "S90",
+    "year": "2017"
+  },
+  "volvo_s90_2019": {
+    "make": "Volvo",
+    "model": "S90",
+    "year": "2019"
+  },
+  "volvo_v60_2015": {
+    "make": "Volvo",
+    "model": "V60",
+    "year": "2015"
+  },
+  "volvo_v60_2016": {
+    "make": "Volvo",
+    "model": "V60",
+    "year": "2016"
+  },
+  "volvo_v60_2017": {
+    "make": "Volvo",
+    "model": "V60",
+    "year": "2017"
+  },
+  "volvo_v60_2020": {
+    "make": "Volvo",
+    "model": "V60",
+    "year": "2020"
+  },
+  "volvo_v90_2019": {
+    "make": "Volvo",
+    "model": "V90",
+    "year": "2019"
+  },
+  "volvo_xc40_2020": {
+    "make": "Volvo",
+    "model": "XC40",
+    "year": "2020"
+  },
+  "volvo_xc60_2011": {
+    "make": "Volvo",
+    "model": "XC60",
+    "year": "2011"
+  },
+  "volvo_xc60_2020": {
+    "make": "Volvo",
+    "model": "XC60",
+    "year": "2020"
+  },
+  "volvo_xc90_2010": {
+    "make": "Volvo",
+    "model": "XC90",
+    "year": "2010"
+  },
+  "volvo_xc90_2016": {
+    "make": "Volvo",
+    "model": "XC90",
+    "year": "2016"
+  },
+  "volvo_xc90_2019": {
+    "make": "Volvo",
+    "model": "XC90",
+    "year": "2019"
+  }
+}
