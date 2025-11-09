@@ -157,7 +157,7 @@ bash
 uvicorn api.app:app --reload --port 8000
 Start the detection/classification camera
 
-bash
+bash 
 python detect_and_classify.py --det yolo11n.pt --cls models/best.pt --label_map data/car_cls_triplet/label_map.json --specs tools/_analysis/class_specs.json --source 0 --hold_secs 2.0
 Usage Controls
 Key	Action
@@ -165,6 +165,7 @@ ESC	Quit program
 L	Fetch and overlay AI-generated car summary
 P	Print full dossier (title, specs, summary)
 (Auto)	Classifies car after ~2 seconds of steady detection
+
 Example Output
 In-App Overlay
 text
@@ -180,7 +181,8 @@ Price:     $10,000–$13,000 (rough estimate)(incomplete due to lack of reliable
 Condition: Good
 Summary:   A serene luxury sedan praised for its whisper-quiet ride and timeless reliability.
 Specs:     {'drivetrain': 'FWD', 'engine': 'V6', 'body': 'Sedan'}
-=============
+
+
 Use Cases
 Domain	Use Case
 Car Shows / Auctions	Visitors point camera → instant car summaries
